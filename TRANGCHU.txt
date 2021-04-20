@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>VnExpress - Báo tiếng Việt nhiều người xem nhất</title> <meta name="description" content="VnExpress tin tức mới nhất - Thông tin nhanh &amp; chính xác được cập nhật hàng giờ. Đọc báo tin tức online Việt Nam &amp; Thế giới nóng nhất trong ngày về thể thao, thời sự, pháp luật, kinh doanh,...">
+<meta name="keywords" content="VnExpress, tin tức, tin the gioi, tin nhanh, tin tuc viet nam, doc bao">
+<meta name="news_keywords" content="VnExpress, tin tức, tin the gioi, tin nhanh, tin tuc viet nam, doc bao">
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1" name="viewport">
+<meta http-equiv="X-UA-Compatible" content="IE=100">
+<meta property="fb:app_id" content="1547540628876392">
+<meta http-equiv="REFRESH" content="1800">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Vnexpress.net">
+<meta name="tt_article_id" content="1000000">
+<meta name="tt_category_id" content="1000000">
+<meta name="tt_site_id" content="1000000">
+<meta name="tt_site_id_new" content="1000000">
+<meta name="tt_list_folder" content="1000000">
+<meta name="tt_page_type" content="site">
+<meta name="tt_page_type_new" content="1">
+<!-- add meta for pvtt3334 -->
+<!-- end meta for pvtt -->
+<!-- META FOR FACEBOOK -->
+<meta property="og:site_name" content="vnexpress.net">
+<meta property="og:rich_attachment" content="true">
+<meta property="og:type" content="website">
+<meta property="og:url" itemprop="url" content="https://vnexpress.net">
+<meta property="og:image" itemprop="thumbnailUrl" content="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logo_default.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="354">
+<meta content="VnExpress - Báo tiếng Việt nhiều người xem nhất" itemprop="headline" property="og:title">
+<meta content="VnExpress tin tức mới nhất - Thông tin nhanh & chính xác được cập nhật hàng giờ. Đọc báo tin tức online Việt Nam & Thế giới nóng nhất trong ngày về thể thao, thời sự, pháp luật, kinh doanh,..." itemprop="description" property="og:description">
+<!-- END META FOR FACEBOOK -->
+<meta content="news" itemprop="genre" name="medium">
+<meta content="vi-VN" itemprop="inLanguage">
+<meta content="" itemprop="articleSection">
+<meta content="Tin nhanh VnExpress" itemprop="sourceOrganization" name="source">
+<meta name="copyright" content="VnExpress">
+<meta name="author" content="VnExpress">
+<meta name="robots" content="index, follow">
+<meta name="geo.placename" content="Ha Noi, Viet Nam">
+<meta name="geo.region" content="VN-HN">
+<meta name="geo.position" content="21.030624;105.782431">
+<meta name="ICBM" content="21.030624, 105.782431">
+<meta name="revisit-after" content="days">
+<!-- Twitter Card -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:url" content="https://vnexpress.net/">
+<meta name="twitter:title" content="VnExpress - Báo tiếng Việt nhiều người xem nhất">
+<meta name="twitter:description" content="VnExpress tin tức mới nhất - Thông tin nhanh & chính xác được cập nhật hàng giờ. Đọc báo tin tức online Việt Nam & Thế giới nóng nhất trong ngày về thể thao, thời sự, pháp luật, kinh doanh,...">
+<meta name="twitter:image" content="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logo_default.jpg">
+<meta name="twitter:site" content="@VnEnews">
+<meta name="twitter:creator" content="@VnEnews">
+<!-- End Twitter Card -->
+<link rel="canonical" href="https://vnexpress.net">
+<link rel="alternate" href="https://vnexpress.net" hreflang="vi-vn">
+<link rel="dns-prefetch" href="https://s1.vnecdn.net">
+<link rel="dns-prefetch" href="https://s.eclick.vn">
+<link rel="dns-prefetch" href="https://gw.vnexpress.net">
+<link rel="dns-prefetch" href="https://usi-saas.vnexpress.net">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://s1.vnecdn.net">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://gw.vnexpress.net">
+<link rel="preconnect" href="https://usi-saas.vnexpress.net">
+<link rel="preconnect" href="https://ds.polyad.net">
+<link rel="preconnect" href="https://s.eclick.vn">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+<link rel="preconnect" href="https://tpc.googlesyndication.com">
+<!-- iPad icons -->
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logos/72x72.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logos/114x114.png" sizes="144x144">
+<!-- iPhone and iPod touch icons -->
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logos/57x57.png" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logos/114x114.png" sizes="114x114">
+<!-- Nokia Symbian -->
+<link rel="nokia-touch-icon" href="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logos/57x57.png">
+<!-- Android icon precomposed so it takes precedence -->
+<link rel="apple-touch-icon-precomposed" href="https://s1.vnecdn.net/vnexpress/restruct/i/v382/logos/114x114.png" sizes="1x1">
+<!-- GOOGLE SEARCH META GOOGLE SEARCH STRUCTURED DATA FOR ARTICLE && GOOGLE BREADCRUMB STRUCTURED DATA-->
+<script type="application/ld+json"> { "@context" : "http://schema.org", "@type" : "WebSite", "name" : "VnExpress", "alternateName" : "Thông tin nhanh & mới nhất được cập nhật hàng giờ. Tin tức Việt Nam & thế giới về xã hội, kinh doanh, pháp luật, khoa học, công nghệ, sức khoẻ, đời sống, văn hóa, rao vặt, tâm sự...", "url": "https://vnexpress.net", "potentialAction": { "@type": "SearchAction", "target": "https://timkiem.vnexpress.net/?q={search_term_string}", "query-input": "required name=search_term_string" } } </script> <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Organization", "name": "VnExpress", "url": "https://vnexpress.net", "logo": "https://s.vnecdn.net/vnexpress/restruct/i/v48/logos/114x114.png", "foundingDate": "2001", "founders": [ { "@type": "Person", "name": "Bộ Khoa học Công nghệ" }, { "@type": "Person", "name": "FPT" } ], "address": [ { "@type": "PostalAddress", "streetAddress": "Tầng 5, Tòa nhà FPT Cầu Giấy, phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội.", "addressLocality": "Hà Nội City", "addressRegion": "Northeast", "postalCode": "100000", "addressCountry": "VNM" }, { "@type": "PostalAddress", "streetAddress": "Tầng 6, Tòa nhà Exchange Tower- số 1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Tp.HCM.", "addressLocality": "Hồ Chí Minh City", "addressRegion": "Southeast", "postalCode": "70000", "addressCountry": "VNM" } ], "contactPoint": [ { "@type": "ContactPoint", "telephone": "+84-123-888-0123", "contactType": "customer service" }, { "@type": "ContactPoint", "telephone": "+84-129-233-3555", "contactType": "customer service" } ], "sameAs": [ "https://www.facebook.com/congdongvnexpress/", "https://twitter.com/VnEnews", "https://www.youtube.com/channel/UCVRqZH5QnrnbMWhElPBD-MQ" ] } </script> <!-- END GOOGLE SEARCH META GOOGLE SEARCH STRUCTURED DATA FOR ARTICLE && GOOGLE BREADCRUMB STRUCTURED DATA-->
+<script type="text/javascript">try{localStorage.setItem('check_storage','local storage');window.supportLS=true;}catch(e){window.supportLS=false;}</script>
+<script type="text/javascript">if(window.supportLS===true&&typeof Object.values==='function'&&typeof Object.keys==='function'){var swapZone=function(selector,output){var cycle=setInterval(function(){if(document.querySelector(selector)!==null){clearInterval(cycle);document.querySelector(selector).outerHTML=output;}},50);setTimeout(function(){clearInterval(cycle);},5000);}
+var swapSession=function(){var lastDateTime=localStorage.getItem('swap_zone');var currentDateTime=+new Date();var rs=0;if(lastDateTime===null){rs=1;}else if(((currentDateTime-parseInt(lastDateTime))/(1000*60))>30){rs=2;}localStorage.setItem('swap_zone',currentDateTime);return rs;}
+var swapGetStorage=function(key,isObject){var data=localStorage.getItem(key);if(data!==null&&typeof isObject!=='undefined'&&isObject===true){return JSON.parse(data);}return data;}
+var swapSetStorage=function(key,data){if(typeof data==='object'){data=JSON.stringify(data);}return localStorage.setItem(key,data);}
+var swapGetRead=function(){var d=new Date();var keyRead='swap_zone_readed_'+(d.getMonth()+1)+d.getDate();var readed=swapGetStorage(keyRead,true);var rs=[];if(readed!==null){rs=Object.values(readed);}return rs;}
+var tsID=["4263813","4263831","4263709","4263861","4263888"];var tsIDCommerce=[];var tsIDCommerceID=[];var ts=[{"key":0,"article_id":"4263813","category_id":"1003784","share_url":"https:\/\/vnexpress.net\/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html","title_format":"B\u1ed9 tr\u01b0\u1edfng Y t\u1ebf: Nguy c\u01a1 Covid-19 x\u00e2m nh\u1eadp qua bi\u00ean gi\u1edbi r\u1ea5t l\u1edbn","thumb_list":{"thumb_680_408_100_1_crop":"https:\/\/i1-suckhoe.vnecdn.net\/2021\/04\/16\/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=t2_CifdGVju6IMISZxokVw","thumb_680_408_100_2_crop":"https:\/\/i1-suckhoe.vnecdn.net\/2021\/04\/16\/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=680&h=408&q=100&dpr=2&fit=crop&s=K4CvyyHrF7gBJNFrCDJTlQ","thumb_default":"https:\/\/i1-suckhoe.vnecdn.net\/2021\/04\/16\/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=120&h=72&q=100&dpr=2&fit=crop&s=tnb4Ub11AUrbN3SA47rTzg","thumb_220_132_100_1_crop":"https:\/\/i1-suckhoe.vnecdn.net\/2021\/04\/16\/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=hM4UKVqEDdPLU4w5kJ0-oA","thumb_220_132_100_2_crop":"https:\/\/i1-suckhoe.vnecdn.net\/2021\/04\/16\/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=Rly5vZ1kJu4S9g6ReCopcQ"},"privacy":"2560","lead":"B\u1ed9 tr\u01b0\u1edfng Y t\u1ebf Nguy\u1ec5n Thanh Long c\u1ea3nh b\u00e1o nguy c\u01a1 Covid-19 t\u00e1i b\u00f9ng ph\u00e1t t\u1ea1i Vi\u1ec7t Nam l\u00e0 r\u1ea5t l\u1edbn trong b\u1ed1i c\u1ea3nh d\u1ecbch b\u00f9ng ph\u00e1t m\u1ea1nh t\u1ea1i c\u00e1c n\u01b0\u1edbc l\u00e1ng gi\u1ec1ng v\u00e0 th\u1ebf gi\u1edbi.","article_type":"1","icon_on_image":"","location_stamp":"","date_time":"","comment":"\n            <a class=\"count_cmt\" href=\"https:\/\/vnexpress.net\/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html#box_comment_vne\" style=\"white-space: nowrap; display: none;\">\n                <svg class=\"ic ic-comment\"><use xlink:href=\"#Comment-Reg\"><\/use><\/svg>\n                <span class=\"txt_num_comment font_icon\" data-type=\"comment\" data-objecttype=\"1\" data-objectid=\"4263813\"><\/span>\n            <\/a>\n        ","before_title":"","off_thumb":true,"vn_thumb":0,"content":"B\u1ed9 tr\u01b0\u1edfng Long nh\u1ea5n m\u1ea1nh nguy c\u01a1 n\u00e0y t\u1ea1i h\u1ed9i ngh\u1ecb tr\u1ef1c tuy\u1ebfn t\u0103ng c\u01b0\u1eddng c\u00f4ng t\u00e1c ph\u00f2ng ch\u1ed1ng Covid-19 v\u1edbi 63 t\u1ec9nh, th\u00e0nh, s\u00e1ng 16\/4. \u00d4ng y\u00eau c\u1ea7u ph\u1ea3i ki\u1ec3m so\u00e1t ch\u1eb7t \u0111\u01b0\u1eddng bi\u00ean v\u00e0 ng\u01b0\u1eddi nh\u1eadp c\u1ea3nh, do d\u1ecbch \u1edf n\u01b0\u1edbc ngo\u00e0i v\u1eabn \u0111ang di\u1ec5n bi\u1ebfn ph\u1ee9c t\u1ea1p trong khi n\u01b0\u1edbc ta v\u1eabn th\u01b0\u1eddng xuy\u00ean t\u1ed5 ch\u1ee9c c\u00e1c chuy\u1ebfn bay gi","is_sticky":0},{"key":1,"article_id":"4263831","category_id":"1003459","share_url":"https:\/\/vnexpress.net\/tp-hcm-kien-nghi-thu-hoi-3-khu-dat-quoc-phong-de-lam-duong-4263831.html","title_format":"TP HCM ki\u1ebfn ngh\u1ecb thu h\u1ed3i 3 khu \u0111\u1ea5t qu\u1ed1c ph\u00f2ng \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1eddng","thumb_list":{"thumb_680_408_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/phoi-canh-duong-quang-ham-7880-1618545588.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=oHfu9g8IXBAV-tCKz3ydiQ","thumb_680_408_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/phoi-canh-duong-quang-ham-7880-1618545588.jpg?w=680&h=408&q=100&dpr=2&fit=crop&s=JeTtREHM9h5372RbO0Mxlg","thumb_default":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/phoi-canh-duong-quang-ham-7880-1618545588.jpg?w=120&h=72&q=100&dpr=2&fit=crop&s=zn4MQkXLl9h1eU9pkLNrSA","thumb_220_132_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/phoi-canh-duong-quang-ham-7880-1618545588.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=eC4EqMuChowah7zuakfxnA","thumb_220_132_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/phoi-canh-duong-quang-ham-7880-1618545588.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=c2OTE8-tthVFWYn37luuuA"},"privacy":"2560","lead":"Ch\u00ednh quy\u1ec1n TP HCM ki\u1ebfn ngh\u1ecb B\u1ed9 Qu\u1ed1c ph\u00f2ng chuy\u1ec3n giao kho\u1ea3ng 8.800 m2 \u0111\u1ea5t \u0111\u1ec3 th\u1ef1c hi\u1ec7n 3 d\u1ef1 \u00e1n giao th\u00f4ng nh\u1eb1m gi\u1ea3m \u00f9n t\u1eafc \u1edf qu\u1eadn G\u00f2 V\u1ea5p.","article_type":"1","icon_on_image":"","location_stamp":"","date_time":"","comment":"\n            <a class=\"count_cmt\" href=\"https:\/\/vnexpress.net\/tp-hcm-kien-nghi-thu-hoi-3-khu-dat-quoc-phong-de-lam-duong-4263831.html#box_comment_vne\" style=\"white-space: nowrap; display: none;\">\n                <svg class=\"ic ic-comment\"><use xlink:href=\"#Comment-Reg\"><\/use><\/svg>\n                <span class=\"txt_num_comment font_icon\" data-type=\"comment\" data-objecttype=\"1\" data-objectid=\"4263831\"><\/span>\n            <\/a>\n        ","before_title":"","off_thumb":false,"vn_thumb":1,"content":"Ki\u1ebfn ngh\u1ecb n\u00e0y v\u1eeba \u0111\u01b0\u1ee3c UBND TP HCM g\u1eedi B\u1ed9 Qu\u1ed1c ph\u00f2ng v\u1ec1 thu h\u1ed3i \u0111\u1ea5t qu\u1ed1c ph\u00f2ng th\u1ef1c hi\u1ec7n 3 d\u1ef1 \u00e1n: n\u00e2ng c\u1ea5p \u0111\u01b0\u1eddng D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, \u0111o\u1ea1n t\u1eeb qu\u1eadn B\u00ecnh Th\u1ea1nh \u0111\u1ebfn C\u00f4ng vi\u00ean v\u0103n h\u00f3a qu\u1eadn G\u00f2 V\u1ea5p; m\u1edf \u0111\u01b0\u1eddng D3, ph\u01b0\u1eddng 10; k\u1ebft n\u1ed1i giao th\u00f4ng \u0111\u01b0\u1eddng Quang Trung - Nguy\u1ec5n V\u0103n C\u00f4ng - Nguy\u1ec5n Ki\u1ec7m, ph\u01b0\u1eddng 3.&lt;figcap","is_sticky":0},{"key":2,"article_id":"4263709","category_id":"1001005","share_url":"https:\/\/vnexpress.net\/cay-do-nha-ngap-sau-mua-lon-o-sai-gon-4263709.html","title_format":"C\u00e2y \u0111\u1ed5, nh\u00e0 ng\u1eadp sau m\u01b0a l\u1edbn \u1edf S\u00e0i G\u00f2n","thumb_list":{"thumb_680_408_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/1d779d9cce733c2d6562-1618541265.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=lf3p98h7hMFUV1NQQsP4Vw","thumb_680_408_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/1d779d9cce733c2d6562-1618541265.jpg?w=680&h=408&q=100&dpr=2&fit=crop&s=uvTKxchlPJ22sGg-rqHJHA","thumb_default":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/1d779d9cce733c2d6562-1618541265.jpg?w=120&h=72&q=100&dpr=2&fit=crop&s=nR4qGb1Hfyy6euq5GYf9iA","thumb_220_132_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/1d779d9cce733c2d6562-1618541265.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=BHtF65fyGzsCogzIvqTo0Q","thumb_220_132_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/1d779d9cce733c2d6562-1618541265.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=h1X_4e39MLPVumwRqXxixA"},"privacy":"2097668","lead":"C\u01a1n m\u01b0a l\u1edbn h\u01a1n m\u1ed9t gi\u1edd k\u00e8m gi\u00f4ng l\u1ed1c \u1edf TP HCM khi\u1ebfn nhi\u1ec1u c\u00e2y \u0111\u1ed5, \u0111\u01b0\u1eddng ng\u1eadp, n\u01b0\u1edbc tr\u00e0n v\u00e0o nh\u00e0 d\u00e2n.","article_type":"3","icon_on_image":"<span class=\"icon_thumb_videophoto\"><svg class=\"ic ic-camera\"><use xlink:href=\"#Camera\"><\/use><\/svg><\/span>","location_stamp":"","date_time":"","comment":"\n            <a class=\"count_cmt\" href=\"https:\/\/vnexpress.net\/cay-do-nha-ngap-sau-mua-lon-o-sai-gon-4263709.html#box_comment_vne\" style=\"white-space: nowrap; display: none;\">\n                <svg class=\"ic ic-comment\"><use xlink:href=\"#Comment-Reg\"><\/use><\/svg>\n                <span class=\"txt_num_comment font_icon\" data-type=\"comment\" data-objecttype=\"3\" data-objectid=\"4263709\"><\/span>\n            <\/a>\n        ","before_title":"<svg class=\"ic ic-in-title ic-camera\"><use xlink:href=\"#Camera\"><\/use><\/svg>","off_thumb":false,"vn_thumb":1,"content":"","is_sticky":0},{"key":3,"article_id":"4263861","category_id":"1001005","share_url":"https:\/\/vnexpress.net\/covid-19-chan-da-phuc-hoi-cua-thi-truong-lao-dong-4263861.html","title_format":"Covid-19 'ch\u1eb7n' \u0111\u00e0 ph\u1ee5c h\u1ed3i c\u1ee7a th\u1ecb tr\u01b0\u1eddng lao \u0111\u1ed9ng","thumb_list":{"thumb_680_408_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/laodong-1618546890-8270-1618546906.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=NgLMfgtMRy6oCT6ax11r8Q","thumb_680_408_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/laodong-1618546890-8270-1618546906.jpg?w=680&h=408&q=100&dpr=2&fit=crop&s=Oan4XJ2xbsiV94w7hFMujg","thumb_default":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/laodong-1618546890-8270-1618546906.jpg?w=120&h=72&q=100&dpr=2&fit=crop&s=v5PC4bswOmucrMCSwuT62w","thumb_220_132_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/laodong-1618546890-8270-1618546906.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O8-fIWxL4app4VTcYYUmww","thumb_220_132_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/laodong-1618546890-8270-1618546906.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=VvDhEjGDl2VMnKJjNXMMVA"},"privacy":"2560","lead":"L\u00e0n s\u00f3ng d\u1ecbch th\u1ee9 ba b\u00f9ng ph\u00e1t gi\u00e1p T\u1ebft T\u00e2n S\u1eedu khi\u1ebfn \u0111\u00e0 kh\u00f4i ph\u1ee5c vi\u1ec7c l\u00e0m v\u00e0 thu nh\u1eadp c\u1ee7a ng\u01b0\u1eddi lao \u0111\u1ed9ng ch\u1eefng l\u1ea1i, theo c\u00f4ng b\u1ed1 c\u1ee7a T\u1ed5ng c\u1ee5c Th\u1ed1ng k\u00ea.","article_type":"1","icon_on_image":"","location_stamp":"","date_time":"","comment":"\n            <a class=\"count_cmt\" href=\"https:\/\/vnexpress.net\/covid-19-chan-da-phuc-hoi-cua-thi-truong-lao-dong-4263861.html#box_comment_vne\" style=\"white-space: nowrap; display: none;\">\n                <svg class=\"ic ic-comment\"><use xlink:href=\"#Comment-Reg\"><\/use><\/svg>\n                <span class=\"txt_num_comment font_icon\" data-type=\"comment\" data-objecttype=\"1\" data-objectid=\"4263861\"><\/span>\n            <\/a>\n        ","before_title":"","off_thumb":false,"vn_thumb":1,"content":"S\u00e1ng 16\/4, \u00f4ng Ph\u1ea1m Ho\u00e0i Nam, V\u1ee5 tr\u01b0\u1edfng Th\u1ed1ng k\u00ea D\u00e2n s\u1ed1 v\u00e0 Lao \u0111\u1ed9ng, cho bi\u1ebft lao \u0111\u1ed9ng c\u00f3 vi\u1ec7c l\u00e0m trong qu\u00fd I\/2021 \u0111\u00e3 gi\u1ea3m m\u1ed9t tri\u1ec7u ng\u01b0\u1eddi, xu\u1ed1ng c\u00f2n 49,9 tri\u1ec7u so v\u1edbi 50,9 tri\u1ec7u c\u1ee7a qu\u00fd tr\u01b0\u1edbc. Gam m\u00e0u x\u00e1m c\u1ee7a b\u1ee9c tranh lao \u0111\u1ed9ng vi\u1ec7c l\u00e0m n\u1eeda cu\u1ed1i n\u0103m 2020 ph\u1ea7n n\u00e0o \u0111\u01b0\u1ee3c c\u1ea3i thi\u1ec7n tr\u01b0\u1edbc n\u1ed7 l\u1ef1c ch\u1ed1ng d\u1ecbch","is_sticky":0},{"key":4,"article_id":"4263888","category_id":"1001005","share_url":"https:\/\/vnexpress.net\/28-hoc-sinh-di-cap-cuu-sau-khi-choi-dat-nan-slam-4263888.html","title_format":"28 h\u1ecdc sinh \u0111i c\u1ea5p c\u1ee9u sau khi ch\u01a1i \u0111\u1ea5t n\u1eb7n slam","thumb_list":{"thumb_680_408_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/hs-1618549043-7358-1618549242.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=qcF5q2CUiDKsUY6TwI3ebg","thumb_680_408_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/hs-1618549043-7358-1618549242.jpg?w=680&h=408&q=100&dpr=2&fit=crop&s=Pd0JEdZ1UWixAEcgDLSN8A","thumb_default":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/hs-1618549043-7358-1618549242.jpg?w=120&h=72&q=100&dpr=2&fit=crop&s=lODuNEQtqFjCX4xQuObcIg","thumb_220_132_100_1_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/hs-1618549043-7358-1618549242.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=JifaoGCIpG0CaUx-1yq1kA","thumb_220_132_100_2_crop":"https:\/\/i1-vnexpress.vnecdn.net\/2021\/04\/16\/hs-1618549043-7358-1618549242.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=Xjf5hXbHLAysG6tSk2OXfg"},"privacy":"2560","lead":"Nh\u00f3m h\u1ecdc sinh tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Ho\u00e0 Kh\u01b0\u01a1ng mua \u0111\u1ea5t n\u1eb7n slam tr\u01b0\u1edbc c\u1ed5ng tr\u01b0\u1eddng ch\u01a1i, h\u00edt ph\u1ea3i kh\u00ed l\u1ea1 n\u00ean b\u1ecb kh\u00f3 th\u1edf, n\u00f4n \u00f3i.","article_type":"1","icon_on_image":"","location_stamp":"<span class=\"location-stamp\">\u0110\u00e0 N\u1eb5ng<\/span>","date_time":"","comment":"\n            <a class=\"count_cmt\" href=\"https:\/\/vnexpress.net\/28-hoc-sinh-di-cap-cuu-sau-khi-choi-dat-nan-slam-4263888.html#box_comment_vne\" style=\"white-space: nowrap; display: none;\">\n                <svg class=\"ic ic-comment\"><use xlink:href=\"#Comment-Reg\"><\/use><\/svg>\n                <span class=\"txt_num_comment font_icon\" data-type=\"comment\" data-objecttype=\"1\" data-objectid=\"4263888\"><\/span>\n            <\/a>\n        ","before_title":"","off_thumb":true,"vn_thumb":0,"content":"Tr\u01b0\u1edbc gi\u1edd v\u00e0o h\u1ecdc s\u00e1ng 16\/4, nh\u00f3m h\u01a1n 30 h\u1ecdc sinh tr\u01b0\u1eddng Ti\u1ec3u h\u1ecdc Ho\u00e0 Kh\u01b0\u01a1ng (x\u00e3 Ho\u00e0 Kh\u01b0\u01a1ng, huy\u1ec7n Ho\u00e0 Vang), ra qu\u00e1n t\u1ea1p ho\u00e1 ph\u00eda tr\u01b0\u1edbc tr\u01b0\u1eddng mua \u0111\u1ea5t n\u1eb7n slam \u0111\u1ec3 ch\u01a1i v\u1edbi nhau.&lt;figcaption&gt;C\u00e1c h\u1ecdc sinh \u0111\u01b0\u1ee3c theo d\u00f5i t\u1ea1i Trung t\u00e2m y t\u1ebf Ho\u00e0 Vang, s\u00e1ng 16\/4. \u1ea2nh: V\u00e2n \u0110\u00e0o&lt;\/figcaption&gt;Sau khi h\u00edt ph\u1ea3i kh\u00ed t\u1eeb slam","is_sticky":0}];var tsClone=JSON.parse(JSON.stringify(ts));if(1){var swapAction=false;var readed=swapGetRead();var editorPositionChange=false;var editorPositionPrev=swapGetStorage('swap_zone_editor',true);swapSetStorage('swap_zone_editor',tsID);tsID.sort();if(editorPositionPrev!==null&&typeof editorPositionPrev!=='undefined'){editorPositionPrev.sort();}if(editorPositionPrev!==null&&JSON.stringify(editorPositionPrev)!==JSON.stringify(tsID)){editorPositionChange=true;}var readedInTS=false;if(readed.length>0){for(var r=0;r<tsID.length;r++){if(readed.indexOf(parseInt(tsID[r]))>-1){readedInTS=true;break;}}}if((readed.length===0||readedInTS===false)&&editorPositionChange===false){var shuffleZone=function(a){var j,x,i;for(i=a.length-1;i>0;i--){j=Math.floor(Math.random()*(i+1));x=a[i];a[i]=a[j];a[j]=x;}return a;}
+ts=shuffleZone(ts);swapAction=true;}else if(readed.length>0){var h=0;var tsReaded=[];var tsNew=[];for(var k=0;k<ts.length;k++){var postionReaded=readed.indexOf(parseInt(ts[k]['article_id']));if(postionReaded>-1){tsReaded[postionReaded]=ts[k];}else{tsNew[h]=ts[k];h++;}}ts=Object.values(tsNew.concat(tsReaded));swapAction=true;}if(swapAction===true){if(tsIDCommerceID.length>0){for(var c=(ts.length-1);c>=0;c--){var p=tsIDCommerceID.indexOf(parseInt(ts[c]['article_id']));if(p>-1){ts.splice(c,1);}}for(var v=0;v<tsIDCommerce.length;v++){ts.splice(tsIDCommerce[v],0,tsClone[tsIDCommerce[v]]);}}for(var i=0;i<ts.length;i++){var articleData=ts[i];var stt=i+1;if(i===0){var articePicture='<picture><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="'+articleData['thumb_list']['thumb_680_408_100_1_crop']+' 1x, '+articleData['thumb_list']['thumb_680_408_100_2_crop']+' 2x"><!--[if IE 9]></video><![endif]--><img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="680x408" alt="'+articleData['title_format']+'" class="lazy" src="'+articleData['thumb_list']['thumb_default']+'"></picture>';if(typeof articleData['thumb_list']['thumb_gif_680_408_100_1_crop']!=='undefined'&&articleData['thumb_list']['thumb_gif_680_408_100_1_crop']){articePicture='<video itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loop muted playsinline preload="none" poster="'+articleData['thumb_list']['thumb_gif_680_408_100_1_crop']+'" class="lazy thumb-gif"><source data-src-image="'+articleData['thumb_list']['thumb_gif_680_408_100_1_crop']+'" data-src-video="'+articleData['thumb_list']['thumb_680_408_100_1_crop']+'" src="'+articleData['thumb_list']['thumb_680_408_100_1_crop']+'" type="video/mp4"></video>';}swapZone('body > section.section.section_topstory > div > div > div > article','<article class="item-news full-thumb article-topstory"><div class="thumb-art"><a href="'+articleData['share_url']+'" class="thumb thumb-5x3" title="'+articleData['title_format']+'" data-medium="Item-1" data-thumb="1">'+articePicture+articleData['icon_on_image']+'</a></div><h3 class="title-news"><a href="'+articleData['share_url']+'" title="'+articleData['title_format']+'" data-medium="Item-1" data-thumb="1">'+((articleData['privacy']&8)?'<i class="ic-live ic-live-title">Live</i> ':'')+articleData['title_format']+'</a></h3><p class="description"><a href="'+articleData['share_url']+'" title="'+articleData['title_format']+'" data-medium="Item-1" data-thumb="1">'+articleData['location_stamp']+articleData['lead']+'</a></p>'+((+parseInt(articleData['article_type'])==1)?'<p class="extend-lead description mt5 hidden"><a href="'+articleData['share_url']+'" title="'+articleData['title_format']+'" data-medium="Item-1" data-thumb="1">'+articleData['content']+'</a></p>':'')+'<p class="meta-news"><span class="time-public">'+articleData['date_time']+'</span><a class="cat hidden" data-vn-campaign="ThuongVien" data-category-id="'+articleData['category_id']+'" data-parent-id=""></a>'+articleData['comment']+'</p></article>');}else if(i<3){swapZone('body > section.section.section_topstory > div > div > div > div > div > div > ul > li:nth-child('+i+')','<li><h3 class="title_news"><a data-medium="Item-'+stt+'" data-thumb="0" href="'+articleData['share_url']+'" title="'+articleData['title_format']+'">'+((articleData['privacy']&8)?'<i class="ic-live ic-live-title">Live</i> ':'')+articleData['before_title']+articleData['title_format']+'</a></h3><p class="description"><a data-medium="Item-'+stt+'" data-thumb="0" href="'+articleData['share_url']+'" title="'+articleData['title_format']+'">'+articleData['location_stamp']+articleData['lead']+'</a><span class="meta-news">'+articleData['comment']+'</span></p></li>');}else{var articePicture='<picture><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="'+articleData['thumb_list']['thumb_220_132_100_1_crop']+' 1x, '+articleData['thumb_list']['thumb_220_132_100_2_crop']+' 2x"><!--[if IE 9]></video><![endif]--><img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="680x408" alt="'+articleData['title_format']+'" class="lazy" src="'+articleData['thumb_list']['thumb_default']+'"></picture>';if(typeof articleData['thumb_list']['thumb_gif_220_132_100_1_crop']!=='undefined'&&articleData['thumb_list']['thumb_gif_220_132_100_1_crop']){articePicture='<video itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loop muted playsinline preload="none" poster="'+articleData['thumb_list']['thumb_gif_220_132_100_1_crop']+'" class="lazy thumb-gif"><source data-src-image="'+articleData['thumb_list']['thumb_gif_220_132_100_1_crop']+'" data-src-video="'+articleData['thumb_list']['thumb_default']+'" src="'+articleData['thumb_list']['thumb_default']+'" type="video/mp4"></video>';}swapZone('body > section.section.section_stream_home.section_container > div > div.col-left.col-small > article:nth-child('+(i-2)+')','<article class="item-news item-news-common"><h3 class="title-news"><a href="'+articleData['share_url']+'" title="'+articleData['title_format']+'" data-medium="Item-'+stt+'" data-thumb="'+articleData['vn_thumb']+'">'+((articleData['privacy']&8)?'<i class="ic-live ic-live-title">Live</i> ':'')+articleData['title_format']+'</h3>'+((!articleData['off_thumb'])?'<div class="thumb-art"><a href="'+articleData['share_url']+'" class="thumb thumb-5x3" title="'+articleData['title_format']+'" data-medium="Item-'+stt+'" data-thumb="1">'+articePicture+articleData['icon_on_image']+'</a></div>':'')+'<p class="description"><a href="'+articleData['share_url']+'" title="'+articleData['title_format']+'>" data-medium="Item-'+stt+'" data-thumb="'+articleData['vn_thumb']+'">'+articleData['location_stamp']+articleData['lead']+'</a><span class="meta-news">'+articleData['comment']+'</span></p></article>');}}}}}</script>
+<script type="text/javascript">if((window.location.hash!=''&&/vn_source=/.test(window.location.hash))||(window.location.search!=''&&/vn_source=/.test(window.location.search))){var _itmSource=((window.location.hash!='')?window.location.hash:window.location.search).replace(/^[#,?]+/g,'').split('&');if(_itmSource){window.itmSource={};for(var i=0;i<_itmSource.length;i++){var o=_itmSource[i].split('=');if(o.length==2)window.itmSource[o[0]]=o[1];}window.dataLayer=window.dataLayer||[];dataLayer.push({'vn_source':window.itmSource.vn_source?window.itmSource.vn_source:null});dataLayer.push({'vn_medium':window.itmSource.vn_medium?window.itmSource.vn_medium:null});dataLayer.push({'vn_campaign':window.itmSource.vn_campaign?window.itmSource.vn_campaign:null});dataLayer.push({'vn_term':window.itmSource.vn_term?window.itmSource.vn_term:null});dataLayer.push({'vn_thumb':window.itmSource.vn_thumb?window.itmSource.vn_thumb:null});if(window.itmSource.vn_zone){dataLayer.push({'vn_zone':window.itmSource.vn_zone});}if(window.itmSource.vn_segment){dataLayer.push({'vn_segment':window.itmSource.vn_segment});}if(window.itmSource.vn_topic){dataLayer.push({'vn_topic':window.itmSource.vn_topic});}}window.history.replaceState(false,false,window.location.protocol+'//'+window.location.hostname+window.location.pathname+(window.location.search!=''?'':window.location.search));}var appendTracking=function(){var dataItm=document.querySelectorAll('[data-itm-source]:not([data-itm-added="1"])');var dataItmLength=dataItm.length;if(dataItmLength>0){for(var di=0;di<dataItmLength;di++){if(dataItm[di]!==null){dataItm[di].setAttribute('data-itm-added',1);dataItm[di].addEventListener('click',function(e){if(this.href&&this.href!=window.location.href&&this.href!=window.location.href+'#'){var data_itm_source=this.getAttribute('data-itm-source');this.setAttribute('href',this.href+(/^#/.test(data_itm_source)?data_itm_source:'#'+data_itm_source));}});}}}};window.addEventListener('DOMContentLoaded',function(event){appendTracking();});var trackingLogoHome=function(type,href){if(href==window.location.href||href==window.location.href+'#'){window.dataLayer=window.dataLayer||[];if(type=='logo-header'){return dataLayer.push({"event":"iTMHometoHome","vn_source":"Home","vn_campaign":"Header","vn_medium":"Logo","vn_term":"Desktop","pageType":"Home"});}else if(type=='logo-header-menu'){return dataLayer.push({"event":"iTMHometoHome","vn_source":"Home","vn_campaign":"Header","vn_medium":"Menu-Home","vn_term":"Desktop","pageType":"Home"});}else if(type=='logo-footer-menu'){return dataLayer.push({"event":"iTMHometoHome","vn_source":"Home","vn_campaign":"Footer","vn_medium":"Menu-Home","vn_term":"Desktop","pageType":"Home"});}else if(type=='logo-footer'){return dataLayer.push({"event":"iTMHometoHome","vn_source":"Home","vn_campaign":"Footer","vn_medium":"Logo","vn_term":"Desktop","pageType":"Home"});}}};</script>
+<script type="text/javascript">var site_id=1000000,SITE_ID=1000000,PAGE_FOLDER=1000000,PAGE_DETAIL=0,parser_autoplay=0,PageHot=0,topic_id_selected=0;var d_gat=new Date();d_gat.setTime(d_gat.getTime()+(7*24*60*60*1000));document.cookie="sw_version=1;expires="+d_gat.toUTCString()+";domain=vnexpress.net;path=/";if(typeof(PAGE_FOLDER)=="undefined"){var PAGE_FOLDER;}if(PAGE_FOLDER==1000000){var _siteId="6";}else{var _siteId="5";}var blockAdsTop=0;var uservar_token="cd73bfe411b24da744850d517ff3cbb3";var uservar_fosp_aid="";window.dataLayer=window.dataLayer||[];dataLayer.push({'pageCategory':'1000000'});dataLayer.push({'pageType':'Home'});dataLayer.push({'pagePlatform':'Web'});dataLayer.push({'pageSubcategoryId':''});dataLayer.push({'PageEmbed':'Video Home'});(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N3FNJF');</script><meta name="tt_page_ads" content="0"><meta name="tt_page_special" content="0"><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-50285069-16','auto',{'name':'te'});</script>
+<style>.lazier{width:1px;height:1px}</style>
+<script type="text/javascript">var addScripts=function(filepath,runtype,callback,stype){var el=document.createElement('script');if(typeof stype==='undefined'){el.type='text/javascript';}else{el.type=stype;}el.src=filepath;el.async=runtype;el.onload=function(){el.setAttribute('loaded','loaded');if(typeof callback=='function'){callback();}}
+document.getElementsByTagName('head')[0].appendChild(el);}
+window.dontSupportES=!(window.Promise&&window.HTMLPictureElement&&[].includes&&Object.keys&&NodeList.prototype.forEach&&window.IntersectionObserver);if(window.dontSupportES){addScripts('https://pfjs.vnecdn.net/all.js?ua='+encodeURIComponent(navigator.userAgent),true,function(){window.updateBrowser=true;setTimeout(function(){window.dontSupportES=false;},1000);});}if(typeof window.supportLS==='undefined'){try{localStorage.setItem('check_storage','local storage');window.supportLS=true;}catch(e){console.log(e);window.supportLS=false;}}var cacheTimeUpdate='1618558800000';var isValidateCachePage=false;var cookieName='_efr';var getCookie=function(name){var value="; "+document.cookie;var parts=value.split("; "+name+"=");if(parts.length>=2){return parts.pop().split(";").shift();}else{return'';}}
+var setCookie=function(name,value,expire){var date=new Date();date.setTime(date.getTime()+(expire*60*1000));expires="; expires="+date.toUTCString();document.cookie=name+"="+value+expires+"; path=/";}
+var unixTimeWithTimeZone=function(offset){var d=new Date();var utc=d.getTime()+(d.getTimezoneOffset()*60000);var nd=new Date(utc+(3600000*offset));return Date.parse(nd.toLocaleString());}
+var validateCachePage=function(){var isDetail=(typeof PAGE_DETAIL!=='undefined'&&PAGE_DETAIL===1);if(isValidateCachePage===false&&isDetail===false){var cookieEFR=getCookie(cookieName);var datenow=unixTimeWithTimeZone('+7');isValidateCachePage=true;if((datenow-cacheTimeUpdate)/(1000*60)>60){if(cookieEFR!=cacheTimeUpdate){setCookie(cookieName,cacheTimeUpdate,60);new Image(1,1).src="https://logperf.vnexpress.net/perf?lt=0&dclt=0&sr=0&url=vne_reload&iscache=0&device_env=4&domain="+location.hostname+'&timeserver='+cacheTimeUpdate+'&timecookie='+cookieEFR+'&timeclient='+datenow;location.reload(true);}else{new Image(1,1).src="https://logperf.vnexpress.net/perf?lt=0&dclt=0&sr=0&url=vne_reload&iscache=0&device_env=4&domain="+location.hostname+'&timeserver='+cacheTimeUpdate+'&timecookie='+cookieEFR+'&timeclient='+datenow+'&action=no_reload';}}}}
+validateCachePage();window.addEventListener('pageshow',function(event){if(event.persisted){validateCachePage();}});window.lazyPrefix='_VnE_202104161440';window.lazyKey=window.lazyPrefix+'_60793f650d667_'+location.pathname+'_';window.registryArea=[];if(window.supportLS){var runScripts=function(input){if(typeof input!='undefined'&&input.toLowerCase().indexOf("<\/script>")>-1){var t=document.createElement('section');t.innerHTML=input;var scripts=t.querySelectorAll('script');[].forEach.call(scripts,function(script){insertScript(script);});}}
+var insertScript=function(sc){var s=document.createElement('script');s.type='text/javascript';if(sc.src){s.onerror=function(){console.log('Init script '+sc.src+' fail');};s.src=sc.src;}else{s.textContent=sc.innerText;}document.head.appendChild(s);sc.parentNode.removeChild(sc);}
+try{var cacheData=sessionStorage.getItem(window.lazyKey);if(cacheData!=null){cacheData=JSON.parse(cacheData);window.addEventListener('DOMContentLoaded',function(e){for(var j=0;j<cacheData.length;j++){var item=cacheData[j];if(item!==null){window.registryArea.push(item['area']);document.getElementById(item['area']).insertAdjacentHTML('beforebegin',item['data']);runScripts(item['data']);}}});}}catch(e){console.log(e);}}window.addEventListener('DOMContentLoaded',function(){var folderLazy='pc',folderLazyType='module';if(typeof ES6!=='undefined'&&ES6===0){folderLazy='production';folderLazyType='text/javascript';}if(window.dontSupportES===false){window.lazyReady=true;addScripts(js_url_vne+'/v3/'+folderLazy+'/lazyload.js',true,null,folderLazyType);}else{var checkReady=setInterval(function(){if(window.dontSupportES===false){clearInterval(checkReady);window.lazyReady=true;addScripts(js_url_vne+'/v3/'+folderLazy+'/lazyload.js',true,null,folderLazyType);}},100);setTimeout(function(){clearInterval(checkReady);window.lazyReady=true;addScripts(js_url_vne+'/v3/'+folderLazy+'/lazyload.js',true,null,folderLazyType);},5000);}});var myvne_js='https://s1.vnecdn.net/myvne/j/v4';</script><script type="text/javascript">var inter_version=2,ZONE_BRANDSAFE='',interactions_url='https://usi-saas.vnexpress.net',base_url='https://vnexpress.net',css_url='https://s1.vnecdn.net/vnexpress/restruct/c/v616',js_url='https://s1.vnecdn.net/vnexpress/restruct/j/v1566',flash_url='https://s1.vnecdn.net/vnexpress/restruct/f/v29',img_url='https://s1.vnecdn.net/vnexpress/restruct/i/v382',js_url_vne='https://s1.vnecdn.net/vnexpress/restruct/j/v1566',css_url_vne='https://s1.vnecdn.net/vnexpress/restruct/c/v616',img_url_vne='https://s1.vnecdn.net/vnexpress/restruct/i/v382',flash_url_vne='https://s1.vnecdn.net/vnexpress/restruct/f/v29',device_env=4,eid_authen_url='https://authen.eid.vn',ZONE_ADS=0,isResizedPhoto=false,site_id_ads=0,list_folder_show_pvtt='1003750,1002966',cacheVersion=202104160240;document.domain='vnexpress.net';</script>
+<script async="" src="https://s.eclick.vn/delivery/eclick.js"></script>
+<!-- start code header ads --->
+<script>var googletag=googletag||{},pbjs=pbjs||{},Criteo=window.Criteo||{};googletag.cmd=googletag.cmd||[];pbjs.que=pbjs.que||[];Criteo.events=Criteo.events||[];var googTagCode={display:[],config:null,video:{outstream:{id:'',code:''},inarticle:{id:'',code:''}},tag:{}};</script>
+<script async='async' type='text/javascript' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script async='async' type='text/javascript' src='https://s.eclick.vn/delivery/dfp/dfpbrand.js'></script>
+<script async='async' type='text/javascript' src='https://s.eclick.vn/delivery/dfp/prebid.js'></script>
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://s.eclick.vn/delivery/dfp/do_pc_vne_home_home.js"></script>
+<script async="" src="https://s1.vnecdn.net/vnexpress/restruct/j/v1566/v3/production/blocks/site/1000000.js"></script>
+<style type="text/css">.icon_thumb_videophoto,.main-nav .parent,.wrap-all-menu .container,.top-header .right{display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex}.flexbox{display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex}.no-flexbox{display:inherit}.container:after{content:'';display:table;clear:both}.item-news .title-news,.list-sub-feature li .title_news,.title-folder,.wrapper-topstory-folder .list-sub-feature li .title_news,.info-author .meta-news .cat{font-feature-settings:'pnum' on,'lnum' on;-webkit-font-feature-settings:'pnum' on,'lnum' on;-moz-font-feature-settings:'pnum' on,'lnum' on;-ms-font-feature-settings:'pnum' on,'lnum' on}.ic{width:16px;height:16px;fill:#757575;display:inline-block;vertical-align:middle}.ic-in-title{width:12px;height:12px;fill:#757575;margin-right:5px;margin-top:-1.5%}.ic-male{fill:#0083D6!important}.ic-fermale{fill:#D71450!important}.ic-live{font-size:14px;display:inline-block}.ic-live:before{-webkit-border-radius:50%;border-radius:50%;display:block;position:relative;top:5px;width:8px;height:8px;content:'';background:#B52759;box-shadow:0 0 0 rgba(231,141,172,.4);margin-right:5px;vertical-align:initial;-webkit-animation:live-pulse 1s infinite;-moz-animation:live-pulse 1s infinite;-o-animation:live-pulse 1s infinite;animation:live-pulse 1s infinite;float:left}.ic-live:after{content:'Trực tiếp';font-family:arial;font-style:normal;color:#9f224e}.ic-live.not-start:before{background:#757575;box-shadow:0 0 0 rgba(117,117,117,.4);-webkit-animation:live-pulse-2 1s infinite;-moz-animation:live-pulse-2 1s infinite;-o-animation:live-pulse-2 1s infinite;animation:live-pulse-2 1s infinite}.ic-live.not-start:after{content:'Chưa bắt đầu';color:#222}.ic-live.the-end:before{background:#757575;box-shadow:0 0 0 rgba(117,117,117,.4);-webkit-animation:live-pulse-2 1s infinite;-moz-animation:live-pulse-2 1s infinite;-o-animation:live-pulse-2 1s infinite;animation:live-pulse-2 1s infinite}.ic-live.the-end:after{content:'Đã kết thúc';color:#757575}.ic-live.ic-live-title{font-family:"Merriweather",serif;font-style:normal;color:#9F224E!important;margin-right:5px;vertical-align:middle;font-weight:700;position:relative;padding-left:13px;line-height:12px;margin-top:-4px}.ic-live.ic-live-title:after{content:''}.ic-live.ic-live-title:before{top:50%;margin-top:-4px;position:absolute;left:0}@-webkit-keyframes live-pulse{0%{-webkit-box-shadow:0 0 0 0 rgba(231,141,172,.4)}70%{-webkit-box-shadow:0 0 0 10px rgba(231,141,172,0)}100%{-webkit-box-shadow:0 0 0 0 rgba(231,141,172,0)}}@keyframes live-pulse{0%{-moz-box-shadow:0 0 0 0 rgba(231,141,172,.4);box-shadow:0 0 0 0 rgba(231,141,172,.4)}70%{-moz-box-shadow:0 0 0 10px rgba(231,141,172,0);box-shadow:0 0 0 10px rgba(231,141,172,0)}100%{-moz-box-shadow:0 0 0 0 rgba(231,141,172,0);box-shadow:0 0 0 0 rgba(231,141,172,0)}}@-webkit-keyframes live-pulse-2{0%{-webkit-box-shadow:0 0 0 0 rgba(117,117,117,.4)}70%{-webkit-box-shadow:0 0 0 10px rgba(117,117,117,0)}100%{-webkit-box-shadow:0 0 0 0 rgba(117,117,117,0)}}@keyframes live-pulse-2{0%{-moz-box-shadow:0 0 0 0 rgba(117,117,117,.4);box-shadow:0 0 0 0 rgba(117,117,117,0)}70%{-moz-box-shadow:0 0 0 10px rgba(117,117,117,0);box-shadow:0 0 0 10px rgba(117,117,117,0)}100%{-moz-box-shadow:0 0 0 0 rgba(117,117,117,0);box-shadow:0 0 0 0 rgba(117,117,117,0)}}html,body{text-rendering:optimizeLegibility}*{margin:0;padding:0;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;text-rendering:optimizeLegibility}body{color:#222;font:400 15px arial;min-height:100vh;overflow-x:hidden;overflow-y:scroll}html{-webkit-text-size-adjust:none}h1,h2,h3,h4,h5,h6{line-height:inherit;font-size:inherit;font-weight:inherit}.has_transition,.title-news a{transition-duration:200ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}a:focus{outline:1!important}a{color:inherit;text-decoration:none;outline:1}table{border-collapse:collapse}img{border:0;font-size:0;line-height:0;max-width:100%}ul,li{list-style-type:none}input[type="text"],input[type="password"],input[type="email"],input[type="tel"],textarea,select{background:#fff;width:100%;height:40px;border:1px solid #e5e5e5;font-size:15px;padding:0 12px;outline:none;font-family:arial;transition-duration:200ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}input[type="text"]:focus,input[type="password"]:focus,input[type="email"]:focus,input[type="tel"]:focus,textarea:focus,select:focus{border:1px solid #4f4f4f}button{border:none;outline:none;cursor:pointer}figure{margin:0 auto 20px;max-width:100%;clear:both}.clearfix:before,.clearfix:after{content:'';display:block;height:0;overflow:hidden}.clearfix:after{clear:both}.left{float:left!important}.right{float:right!important}.width_common{width:100%;float:left}.no_wrap{white-space:nowrap}.txt_666{color:#666}.txt_10{font-size:10px}.txt_11{font-size:11px}.txt_14{font-size:14px}.txt_16{font-size:16px}.txt_vne{color:#9f224e}.mb0{margin-bottom:0!important}.mb5{margin-bottom:5px}.mb10{margin-bottom:10px}.mb15{margin-bottom:15px}.mb20{margin-bottom:20px}.mt5{margin-top:5px}.mt10{margin-top:10px}.mt15{margin-top:15px}.mt20{margin-top:20px}.myvne_form_log{text-align:right;margin-top:4px;font-family:'arial',sans-serif}.myvne_form_log .myvne_user,.myvne_form_log .myvne_notification{display:inline-block;vertical-align:middle;position:relative}.myvne_form_log .myvne_avatar{height:25px;line-height:25px;font-size:0}.myvne_form_log .myvne_avatar .avatar_inner{width:25px;height:25px;background:#C4C4C4;overflow:hidden;margin-top:-4px;line-height:25px;text-align:center;border-radius:50%;display:inline-block;vertical-align:middle;margin-right:5px;font-size:18px;font-family:'arial',sans-serif;text-transform:uppercase;font-weight:700;color:#fff}.myvne_form_log .myvne_avatar .avatar_inner img{width:25px;height:25px}.myvne_form_log .myvne_avatar .name_user_av{font-size:14px;display:inline-block;vertical-align:middle;position:relative;padding-right:10px;max-width:100px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.myvne_form_log .myvne_avatar .name_user_av:after{width:0;height:0;border-left:3px solid transparent;border-right:3px solid transparent;border-top:4px solid #757575;position:absolute;top:11px;right:0;content:''}.myvne_form_log .myvne_notification{cursor:pointer}.myvne_form_log .myvne_notification .myvne_icon_bell_click{width:16px;height:16px;background:none;padding:5px 10px}.myvne_form_log .myvne_notification .myvne_icon_bell_click .ic-bell{fill:#bdbdbd}.myvne_form_log .myvne_notification .badged{position:absolute;top:-9px;right:-5px;background:#9F224E;border:1px solid #FFF;border-radius:10px;font-size:12px;color:#fff;padding:1px 4.5px}.myvne_form_log .myvne_notification:hover .myvne_icon_bell_click .ic-bell{fill:#757575}.myvne_form_log .myvne_notification.active .myvne_icon_bell_click .ic-bell{fill:#9F224E}.myvne_form_log .myvne_user_status{z-index:99999;position:absolute;height:auto;top:42px;left:auto;right:-30px;margin-top:0;min-width:240px;background:#fff;border:1px solid #e5e5e5;box-shadow:0 2px 8px rgba(0,0,0,.1);border-radius:0 0 3px 3px;padding:0 15px;text-align:left}.myvne_form_log .myvne_user_status:before{width:15px;height:15px;border:solid #e5e5e5;border-width:0 1px 1px 0;content:'';position:absolute;top:-9px;right:23px;background:#fff;-webkit-transform:rotate(225deg);-ms-transform:rotate(225deg);transform:rotate(225deg)}.myvne_form_log .myvne_user_status li{width:100%;float:left}.myvne_form_log .myvne_user_status li.li_bd{border-bottom:1px solid #E5E5E5;padding:0 0 10px 0;margin-bottom:10px}.myvne_form_log .myvne_user_status li.li_account{display:flex;align-items:center;padding:15px 0}.myvne_form_log .myvne_user_status li a{font-size:15px;display:block;line-height:15px;color:#4F4F4F;padding:10px 0;position:relative;width:100%}.myvne_form_log .myvne_user_status li a .number_sub{opacity:.4}.myvne_form_log .myvne_user_status li a:hover{color:#087CCE}.myvne_form_log .myvne_user_status li:last-child a{padding-bottom:20px;position:relative}.myvne_form_log .myvne_user_status li:last-child a:after{width:12px;height:12px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0iI2JkYmRiZCI+PHBhdGggZD0iTTkgOWwzLTMtMy0zdjIuMjVINC41djEuNUg5Vjl6TS43NSAwSDcuNWMuNDUgMCAuNzUuMy43NS43NVYzaC0xLjVWMS41SDEuNXY5aDUuMjVWOWgxLjV2Mi4yNWMwIC40NS0uMy43NS0uNzUuNzVILjc1Qy4zIDEyIDAgMTEuNyAwIDExLjI1Vi43NUMwIC4zLjMgMCAuNzUgMHoiLz48L3N2Zz4=) no-repeat 0 0;content:'';position:absolute;top:12px;left:45px}.myvne_form_log .myvne_user_status .avatar_sub{width:48px;height:48px;background:#E5E5E5;text-align:center;line-height:48px;font-size:20px;color:#fff;overflow:hidden;border-radius:50%;font-weight:700;text-transform:uppercase}.myvne_form_log .myvne_user_status .avatar_sub img{width:48px;height:48px}.myvne_form_log .myvne_user_status .name_sub{width:calc(100% - 48px);padding-left:10px;color:#4F4F4F;font-size:16px;font-weight:700}.myvne_form_log .myvne_content_notification{z-index:99999;position:absolute;height:auto;top:38px;left:auto;right:-15px;margin-top:0;min-width:310px;background:#fff;border:1px solid #e5e5e5;box-shadow:0 2px 8px rgba(0,0,0,.1);border-radius:0 0 3px 3px;padding:0;text-align:left}.myvne_form_log .myvne_content_notification:before{width:15px;height:15px;border:solid #e5e5e5;border-width:0 1px 1px 0;content:'';position:absolute;top:-9px;right:23px;background:#fff;-webkit-transform:rotate(225deg);-ms-transform:rotate(225deg);transform:rotate(225deg)}.myvne_form_log .myvne_content_notification li a{font-size:14px;line-height:160%;color:#222;padding:10px 15px 10px 30px;display:block;position:relative}.myvne_form_log .myvne_content_notification li a .myvne_time{font-size:12px;color:#757575;padding-top:5px}.myvne_form_log .myvne_content_notification li a:hover{background:#f7f7f7}.myvne_form_log .myvne_content_notification li a img{float:left;margin-right:10px;display:none}.myvne_form_log .myvne_content_notification li:first-child a{border-top:none}.myvne_form_log .myvne_content_notification li.unread a:before{content:'';width:8px;height:8px;background:#0887E2;position:absolute;top:16px;left:15px;border-radius:50%}.myvne_form_log .myvne_content_notification #myvne_notify_lists{height:490px;overflow:hidden}.myvne_form_log .myvne_content_notification .myvne_notification-viewmore{display:block;height:40px;line-height:40px;text-align:center;width:100%;float:left;padding:0 15px;font-size:14px;color:#757575;text-decoration:underline;border-top:1px solid #e5e5e5}.myvne_form_log .myvne_content_notification .myvne_notification-viewmore:hover{color:#087CCE}.myvne_form_log .myvne_content_notification #myvne_loading_viewmore{text-align:center;width:100%;float:left;padding-bottom:15px}.myvne_form_log li.myvne_loading{text-align:center;margin:10px;color:#FFF}.myvne_form_log li.myvne_loading:after{content:"Đang tải...";display:block;color:#333}.thumb-art{position:relative;margin-right:10px;float:left;width:140px}.thumb{display:block;overflow:hidden;height:0;position:relative;width:100%;background:#f4f4f4}.thumb img{width:100%;float:left;object-fit:cover}.thumb iframe{width:100%;height:100%;position:absolute;left:0;top:0}.thumb-5x3{padding-bottom:60%}.thumb-5x2{padding-bottom:40%}.thumb-3x2{padding-bottom:66.66667%}.thumb-16x9{padding-bottom:56.25%}.thumb-1x1{padding-bottom:100%}.thumb-2x3{padding-bottom:150%}.thumb-video{width:100%;height:0;padding-bottom:56.25%;margin-bottom:0;position:relative;overflow:hidden}.thumb-video iframe{position:absolute;width:100%;height:100%;left:0;top:0}.icon_thumb_videophoto{width:24px;display:block;height:24px;line-height:24px;text-align:center;position:absolute;background:rgba(0,0,0,.5);border-radius:3px;left:5px;bottom:5px;font-size:12px;color:#fff;font-weight:700;justify-content:center}.icon_thumb_videophoto .ic{align-self:center;fill:#fff;width:14px;height:14px}.thumb .thumb-gif{width:100%;-webkit-filter:unset;filter:unset;-webkit-transition:opacity 1s ease-out;-o-transition:opacity 1s ease-out;transition:opacity 1s ease-out}.wrap-main-nav{background:#fff;position:sticky;position:-webkit-sticky;top:0;z-index:999}.wrap-main-nav.show-all-menu .wrap-all-menu{top:calc(100% - 3px);visibility:visible;opacity:1}.wrap-main-nav.show-all-menu .wrap-all-menu:after{opacity:1;visibility:visible}.wrap-main-nav.show-all-menu .parent li{color:#BDBDBD}.wrap-main-nav.show-all-menu .all-menu{color:#9f224e!important}.wrap-main-nav.show-all-menu .hamburger{background:#9f224e!important}.wrap-main-nav.show-all-menu .hamburger:before,.wrap-main-nav.show-all-menu .hamburger:after{background:#9f224e!important}.wrap-main-nav.sticky{top:0;position:fixed}.main-nav{width:100%;float:left;clear:both;font-size:14px;border-bottom:1px solid #E5E5E5;transition-duration:300ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}.main-nav .parent{justify-content:space-between;max-width:1370px;margin:0 auto;padding:0 15px}.main-nav .parent li{margin-right:15px;position:relative;font-weight:600;color:#4F4F4F;transition-duration:200ms;transition-property:color;transition-timing-function:cubic-bezier(.7,1,.7,1)}.main-nav .parent li a{padding:16.5px 0;display:block;white-space:nowrap}.main-nav .parent li:hover .sub{opacity:1;visibility:visible;top:100%;border-top:1px solid #9f224e}.main-nav .parent li.active a,.main-nav .parent li:hover a{color:#B52759}.main-nav .parent li.kinhdoanh:hover a,.main-nav .parent li.kinhdoanh.active a{color:#065E9D}.main-nav .parent li.giaitri:hover a,.main-nav .parent li.giaitri.active a{color:#EC326B}.main-nav .parent li.thethao:hover a,.main-nav .parent li.thethao.active a{color:#5FAE2E}.main-nav .parent li.phapluat:hover a,.main-nav .parent li.phapluat.active a{color:#923A3C}.main-nav .parent li.giaoduc:hover a,.main-nav .parent li.giaoduc.active a{color:#EB7600}.main-nav .parent li.suckhoe:hover a,.main-nav .parent li.suckhoe.active a{color:#049B93}.main-nav .parent li.doisong:hover a,.main-nav .parent li.doisong.active a{color:#309FC0}.main-nav .parent li.dulich:hover a,.main-nav .parent li.dulich.active a{color:#0083D6}.main-nav .parent li.khoahoc:hover a,.main-nav .parent li.khoahoc.active a{color:#AD9634}.main-nav .parent li.sohoa:hover a,.main-nav .parent li.sohoa.active a{color:#B88000}.main-nav .parent li.xe:hover a,.main-nav .parent li.xe.active a{color:#8392A0}.main-nav .parent li.cuoi:hover a,.main-nav .parent li.cuoi.active a{color:#E7776A}.main-nav .parent li.home{padding:12px 0}.main-nav .parent li.home a{width:24px;height:24px;border-radius:50%;background:#E5E5E5;justify-content:center;padding:0;position:relative;transition-duration:300ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}.main-nav .parent li.home a .ic{width:12px;height:12px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);transition-duration:300ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}.main-nav .parent li.home a .ic.ic-evne{opacity:0;width:20px;height:20px}.main-nav .parent li.home:hover a,.main-nav .parent li.home.active a{background:#B52759}.main-nav .parent li.home:hover a .ic,.main-nav .parent li.home.active a .ic{fill:#fff}.main-nav .parent li.kinhdoanh .sub{border-top:1px solid #04416d}.main-nav .parent li.giaitri .sub{border-top:1px solid #d71450}.main-nav .parent li.thethao .sub{border-top:1px solid #498523}.main-nav .parent li.phapluat .sub{border-top:1px solid #6e2c2d}.main-nav .parent li.giaoduc .sub{border-top:1px solid #B75C00}.main-nav .parent li.suckhoe .sub{border-top:1px solid #03817B}.main-nav .parent li.doisong .sub{border-top:1px solid #2D96B5}.main-nav .parent li.dulich .sub{border-top:1px solid #0072bb}.main-nav .parent li.khoahoc .sub{border-top:1px solid #867428}.main-nav .parent li.sohoa .sub{border-top:1px solid #9c6d00}.main-nav .parent li.xe .sub{border-top:1px solid #5D6C79}.main-nav .parent li.cuoi .sub{border-top:1px solid #DC3926}.main-nav .parent li.newlest{opacity:0;visibility:hidden;width:0;padding-right:0;margin-right:0;transition-duration:200ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}.main-nav .parent li.newlest a{color:#9f224e}.main-nav .parent li.newlest.active a,.main-nav .parent li.newlest:hover a{color:#B52759}.main-nav .parent li.newlest:after{content:'';width:1px;height:14px;background:#e5e5e5;position:absolute;top:18px;right:0}.main-nav .sub{width:190px;background:#fff;opacity:0;visibility:hidden;position:absolute;z-index:2;left:0;top:calc(100% + 20px);box-shadow:0 2px 8px rgba(0,0,0,.1);transition-duration:200ms;transition-property:opacity,top,visible;transition-timing-function:cubic-bezier(.7,1,.7,1)}.main-nav .sub li{font-weight:400;color:#222}.main-nav .sub li a{padding:10px 15px;color:#333!important}.main-nav .sub li a:hover{text-decoration:underline}.main-nav .all-menu{margin-right:0!important;color:#BDBDBD!important;font-weight:normal!important}.main-nav .all-menu a{display:-webkit-flex!important;display:-moz-flex!important;display:-ms-flex!important;display:-o-flex!important;display:flex!important}.main-nav .all-menu .hamburger{width:16px;height:2px;position:relative;background:#BDBDBD;display:block;top:2px;margin-left:8px}.main-nav .all-menu .hamburger:before,.main-nav .all-menu .hamburger:after{content:'';width:16px;height:2px;background:#BDBDBD;position:absolute}.main-nav .all-menu .hamburger:before{left:0;top:10px}.main-nav .all-menu .hamburger:after{left:0;top:5px}.main-nav .all-menu:hover .hamburger{background:#B52759}.main-nav .all-menu:hover .hamburger:before,.main-nav .all-menu:hover .hamburger:after{background:#B52759}.wrap-main-nav.sticky .main-nav{background:linear-gradient(180deg,#fff 0%,rgba(255,255,255,0) 100%),#fff;box-shadow:0 2px 8px rgba(0,0,0,.1)}.wrap-main-nav.sticky .main-nav .parent li.home a{background:none}.wrap-main-nav.sticky .main-nav .parent li.home a .ic-home{opacity:0}.wrap-main-nav.sticky .main-nav .parent li.home a .ic-evne{opacity:1}.wrap-main-nav.sticky .main-nav .parent li.newlest{opacity:1;visibility:visible;width:73.95px;padding-right:15px;margin-right:15px}.wrap-main-nav.sticky .main-nav .parent li:nth-last-of-type(-n+3){display:none}.wrap-main-nav.sticky .main-nav .parent li.all-menu{display:block!important}.wrap-main-nav.sticky .main-nav .parent li ul.sub li:nth-last-of-type(-n+3){display:block}.wrap-all-menu{width:100%;float:left;background:#F7F7F7;position:absolute;top:calc(100% + 10px);opacity:0;visibility:hidden;transition-duration:200ms;transition-property:opacity,top,visible;transition-timing-function:cubic-bezier(.7,1,.7,1)}.wrap-all-menu:after{width:100%;height:300px;position:absolute;background:rgba(0,0,0,.75);bottom:-300px;left:0;content:'';z-index:-1;opacity:0;visibility:hidden;transition-duration:700ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}.wrap-all-menu .container{flex-wrap:wrap}.wrap-all-menu .header-menu{width:100%;float:left;border-bottom:1px solid #BDBDBD;padding:13px 0}.wrap-all-menu .header-menu .name-header{font-size:18px;line-height:23px;color:#4F4F4F;display:inline-block;font-family:"Merriweather",serif;font-weight:900}.wrap-all-menu .header-menu .close-menu{float:right;color:#076DB6}.wrap-all-menu .header-menu .close-menu .icon-close{position:relative;width:14px;height:14px;display:block;float:right;top:3px;margin-left:10px}.wrap-all-menu .header-menu .close-menu .icon-close:before,.wrap-all-menu .header-menu .close-menu .icon-close:after{content:'';width:20px;height:2px;position:absolute;background:#076DB6;left:-3px;top:6px}.wrap-all-menu .header-menu .close-menu .icon-close:before{transform:rotate(45deg)}.wrap-all-menu .header-menu .close-menu .icon-close:after{transform:rotate(-45deg)}.wrap-all-menu .content-left{width:calc(100% - 160px);float:left;padding-top:15px;padding-bottom:15px}.wrap-all-menu .content-left .scroll-menu-expand{max-height:calc(100vh - 130px);overflow:hidden}.wrap-all-menu .content-right{width:160px;padding-left:20px;float:right;padding-top:15px;border-left:1px solid #BDBDBD}.wrap-all-menu .content-right .scroll-menu-expand{max-height:calc(100vh - 130px);overflow:hidden}.wrap-all-menu .row-menu{font-size:0}.wrap-all-menu .cat-menu{display:inline-block;vertical-align:top;font-size:14px;width:150px;margin-bottom:30px}.wrap-all-menu .cat-menu li.hidden{display:none}.wrap-all-menu .cat-menu li:first-child{color:#9f224e;font-size:16px;font-weight:700}.wrap-all-menu .cat-menu li:first-child a{padding-top:0}.wrap-all-menu .cat-menu li:first-child a:hover,.wrap-all-menu .cat-menu li:first-child a.active{text-decoration:underline;color:#B52759}.wrap-all-menu .cat-menu li.view-more{color:#757575;font-size:12px;position:relative;padding-top:3px}.wrap-all-menu .cat-menu li.view-more:hover{color:#087CCE}.wrap-all-menu .cat-menu li.view-more:before{content:'';width:80px;height:1px;background:#BDBDBD;position:absolute;top:6px;left:0}.wrap-all-menu .cat-menu li a{padding:7.5px 0;display:inline-block}.wrap-all-menu .cat-menu li a:hover,.wrap-all-menu .cat-menu li a.active{text-decoration:underline}.wrap-all-menu .cat-menu li.kinhdoanh a:hover,.wrap-all-menu .cat-menu li.kinhdoanh a.active{color:#065E9D}.wrap-all-menu .cat-menu li.giaitri a:hover,.wrap-all-menu .cat-menu li.giaitri a.active{color:#EC326B}.wrap-all-menu .cat-menu li.thethao a:hover,.wrap-all-menu .cat-menu li.thethao a.active{color:#5FAE2E}.wrap-all-menu .cat-menu li.phapluat a:hover,.wrap-all-menu .cat-menu li.phapluat a.active{color:#923A3C}.wrap-all-menu .cat-menu li.giaoduc a:hover,.wrap-all-menu .cat-menu li.giaoduc a.active{color:#EB7600}.wrap-all-menu .cat-menu li.suckhoe a:hover,.wrap-all-menu .cat-menu li.suckhoe a.active{color:#049B93}.wrap-all-menu .cat-menu li.doisong a:hover,.wrap-all-menu .cat-menu li.doisong a.active{color:#309FC0}.wrap-all-menu .cat-menu li.dulich a:hover,.wrap-all-menu .cat-menu li.dulich a.active{color:#0083D6}.wrap-all-menu .cat-menu li.khoahoc a:hover,.wrap-all-menu .cat-menu li.khoahoc a.active{color:#AD9634}.wrap-all-menu .cat-menu li.sohoa a:hover,.wrap-all-menu .cat-menu li.sohoa a.active{color:#B88000}.wrap-all-menu .cat-menu li.xe a:hover,.wrap-all-menu .cat-menu li.xe a.active{color:#8392A0}.wrap-all-menu .cat-menu li.cuoi a:hover,.wrap-all-menu .cat-menu li.cuoi a.active{color:#E7776A}.wrap-all-menu .type-news{padding-bottom:12px;border-bottom:1px solid #BDBDBD;margin-bottom:20px}.wrap-all-menu .type-news .item-type{font-size:16px;font-weight:700;margin-bottom:17px}.wrap-all-menu .type-news .item-type:hover a{text-decoration:underline}.wrap-all-menu .list-link{padding-bottom:12px;border-bottom:1px solid #BDBDBD;margin-bottom:20px}.wrap-all-menu .list-link .link{font-size:14px;margin-bottom:15px}.wrap-all-menu .list-link .link:hover a{text-decoration:underline}.wrap-all-menu .contact .ic{margin-right:5px}.wrap-all-menu .contact p{margin-bottom:10px}.wrap-all-menu .contact a{border:1px solid #E5E5E5;background:#fff;border-radius:3px;height:32px;line-height:32px;display:block;text-align:left;padding-left:12px;margin-bottom:10px;font-size:14px}.wrap-all-menu .contact a:hover{color:#087CCE}.wrap-all-menu .contact .mail{background:none;border-radius:3px;height:20px;line-height:20px;padding-left:0;display:block;text-align:left;border:none}.wrap-all-menu .contact .mail .ic{fill:#BDBDBD;margin-top:-2px}.wrap-all-menu .contact .ads{background:none;border-radius:3px;height:20px;line-height:20px;padding-left:0;display:block;text-align:left;border:none}.wrap-all-menu .contact .ads .ic{fill:none}.wrap-all-menu .contact .ads .ic.ic-ads{width:13px;height:14px;background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxMyAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjU0NjUgMTAuNDgyOEMxMi41NDY1IDEwLjQ2NzEgMTIuNTMyMyAxMC40NjcxIDEyLjUzMjMgMTAuNDUxNEMxMi41MzIzIDEwLjQ0NzIgMTIuNTMwNyAxMC40NDMyIDEyLjUyNzcgMTAuNDQwM0MxMi41MjQ4IDEwLjQzNzMgMTIuNTIwOCAxMC40MzU3IDEyLjUxNjYgMTAuNDM1N0MxMi40NjQ1IDEwLjI5MiAxMi4zODMxIDEwLjE2MDcgMTIuMjc3NSAxMC4wNTAzTDEyLjI2MzMgMTAuMDM0NUwxMi4yMTc3IDkuOTg4OTJDMTIuMDcxMSA5Ljg0MTk0IDExLjg5OTYgOS43MjIxMSAxMS43MTEyIDkuNjM0OThDMTEuNjQ1NyA5LjU5OTAxIDExLjU3NTIgOS41NzMwMyAxMS41MDIgOS41NTc5QzExLjQxMzQgOS41Mzk3IDExLjMyMzQgOS41MjkxOCAxMS4yMzMgOS41MjY0NEMxMS4xMzM2IDkuNTIzNDUgMTEuMDM0MiA5LjUyODcxIDEwLjkzNTcgOS41NDIxN0gxMC45MDU4QzEwLjg4NDYgOS41Mzk3MiAxMC44NjMzIDkuNTQ1MzQgMTAuODQ2IDkuNTU3OUMxMC40NjU1IDkuNjM1ODggMTAuMTI2MiA5Ljg0OTQxIDkuODkxMjEgMTAuMTU4OEw5Ljg2MTMyIDEwLjE5MDNDOS44NDU1OSAxMC4yMDQ0IDkuODE1NyAxMC4yMzU5IDkuODAxNTUgMTAuMjUxNkM5LjU5OTE2IDEwLjQ1NTcgOS4zNzkxMyAxMC42NDE1IDkuMTQ0MDIgMTAuODA2OUM4Ljg5NjgzIDEwLjk2MTQgOC42Mzc0NyAxMS4wOTU2IDguMzY4NTEgMTEuMjA4SDguMzU0MzZDOC4xMTYxOSAxMS4zMDE5IDcuODcxNzggMTEuMzc5MiA3LjYyMjg5IDExLjQzOTNDNi45NTI1NyAxMS41ODczIDYuMjU2MzkgMTEuNTcxMSA1LjU5MzY4IDExLjM5MjFDNS41MzM5MSAxMS4zNzYzIDUuNDU4NCAxMS4zNDY0IDUuMzk4NjMgMTEuMzMwN0M1LjMzODg1IDExLjMxNSA1LjI4MDY1IDExLjI4NTEgNS4yMjA4NyAxMS4yNjk0QzUuMTggMTEuMjU2NCA1LjE0MDA1IDExLjI0MDYgNS4xMDEzMiAxMS4yMjIyQzUuMDIzMjcgMTEuMTkzNCA0Ljk0Nzk4IDExLjE1NzYgNC44NzYzOCAxMS4xMTUyQzQuODcyMjEgMTEuMTE1MiA0Ljg2ODIxIDExLjExMzYgNC44NjUyNSAxMS4xMTA2QzQuODYyMzEgMTEuMTA3NyA0Ljg2MDY1IDExLjEwMzYgNC44NjA2NSAxMS4wOTk1QzQuMzI0MSAxMC44MzM2IDMuODQzNTIgMTAuNDY3MyAzLjQ0NDkyIDEwLjAyMDRDMy4wNTAwMyA5LjU2NzQzIDIuNzU1MjIgOS4wMzYyMiAyLjU3OTc1IDguNDYxNUMyLjM1ODQ1IDcuNzIyMzQgMi4zMDQ3MiA2Ljk0MzE0IDIuNDIyNDUgNi4xODA2QzIuNDIyNDUgNi4xODA2IDIuOTQ0NjkgMi41NjI2MiA2Ljg2OTQxIDIuNDc5MjVDNy43NTA2MyAyLjUxNjUzIDguNjAxNTkgMi44MTEzMSA5LjMxNzA1IDMuMzI3MTFDNy4wNTUwMyA1LjY2MzA3IDQuMDg5ODYgOC42Nzg1OCA0LjA4OTg2IDguNjc4NThDNC40NzcwMiA5LjM3NTggNS4xMTAyNSA5LjkwMzU5IDUuODY1ODIgMTAuMTU4OEM2LjI5MjExIDkuNzI2MjIgMTIuNTQ2NSAzLjMwMzUyIDEyLjU0NjUgMy4zMDM1MkMxMi41NDY1IDMuMzAzNTIgMTEuOTU1IDIuMjMyMjggMTEuMTEzNSAxLjYxNTY1QzEwLjEzNzkgMC43Njc2MTUgOC45MzQzNCAwLjIyNTQ2MiA3LjY1Mjc4IDAuMDU2Nzc0QzQuMjgwMiAtMC4zODk5NjggMC44MzM2ODIgMS43OTk3IDAuMDg4MDY0MyA1Ljg0MDgyQy0wLjQ5Mzk1OCA5LjYzNDk4IDEuODc4MTggMTMuMjM0MSA1LjYyMzU3IDEzLjkwNThDNy45MjE3NyAxNC4zMzg0IDEwLjkzNTcgMTMuMjg5MSAxMi42MDYzIDEwLjYzN0MxMi41Nzk0IDEwLjU4ODYgMTIuNTU5MyAxMC41MzY3IDEyLjU0NjUgMTAuNDgyOFoiIGZpbGw9IiMwMDc0N0IiLz4KPC9zdmc+Cg==) no-repeat 0 0;margin-top:-2px;margin-right:9px}.wrap-all-menu .contact.downloadapp{padding-top:20px;margin-top:20px;border-top:1px solid #BDBDBD}.wrap-all-menu .contact.downloadapp a .ic{margin-top:-3px}.wrap-all-menu .contact.downloadapp a:hover{color:#222;background:#E5E5E5}.wrap-main-nav.sticky+.section{margin-top:50px}.lazy-blur{-webkit-filter:blur(2px);filter:blur(2px)}.lazy-unblur{opacity:0;-webkit-filter:unset;filter:unset;will-change:opacity;-webkit-transition:opacity 1s ease-out;-o-transition:opacity 1s ease-out;transition:opacity 1s ease-out}.lazier{width:1px;height:1px}.thumb-art{position:relative}.lazy{position:absolute;top:0;left:0}.loaded{position:absolute;top:0;left:0;opacity:0;-webkit-filter:unset;filter:unset;-webkit-transition:opacity 1s ease-out;-o-transition:opacity 1s ease-out;transition:opacity 1s ease-out}@keyframes fadeInUp{from{-webkit-transform:translate3d(0,5px,0);transform:translate3d(0,5px,0)}to{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1}}@-webkit-keyframes fadeInUp{from{-webkit-transform:translate3d(0,5px,0);transform:translate3d(0,5px,0)}to{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1}}.animated{animation-duration:1s;animation-fill-mode:both;-webkit-animation-duration:1s;-webkit-animation-fill-mode:both}.animatedFadeInUp{opacity:0}.fadeInUp{opacity:0;animation-name:fadeInUp;-webkit-animation-name:fadeInUp}.grecaptcha-badge{display:none!important}.banner-ads{width:100%;float:left;text-align:center;overflow:hidden}.banner-ads.banner-height-360{height:360px}.banner-ads.banner-height-360 img{height:360px}.banner-ads.banner-height-600{height:600px}.banner-ads.banner-height-600 img{height:600px}.banner-ads.banner-height-250{height:250px}.banner-ads.banner-height-250 img{height:250px}.banner-ads.banner-height-500{height:500px}.banner-ads.banner-height-500 img{height:500px}.banner-ads.banner-height-90{height:90px}.banner-ads.banner-height-90 img{height:90px}.section-ads-top{transition:all .6s ease-in-out;background:#f7f7f7;min-height:270px!important;flex-direction:column}.container{width:100%;max-width:1130px;padding:0 15px;margin:0 auto;position:relative}.extra-container{width:100%;max-width:1340px;padding:0 15px}.section{width:100%;float:left}.hidden{display:none!important}.top-header{padding:8.5px 0;border-bottom:1px solid #E5E5E5}.top-header .search{position:relative;margin-left:15px;padding-left:15px}.top-header .search input{height:32px;line-height:32px;border-radius:16px;border:1px solid #E5E5E5;padding:0 30px 0 14px;margin:0}.top-header .search input:focus{border:1px solid #BDBDBD}.top-header .search button{background:none;position:absolute;right:0;top:0;width:32px;height:32px}.top-header .search button .ic{fill:#bdbdbd}.top-header .search:before{content:'';width:1px;height:24px;background:#E5E5E5;position:absolute;left:0;top:4px}.top-header .search.active input{border:1px solid #BDBDBD}.top-header .search.active button .ic{fill:#757575}.all-menu-tablet{float:left;width:50px;height:33px;text-align:center;margin-left:-15px;margin-top:-2px;cursor:pointer;display:none}.all-menu-tablet .hamburger{width:20px;height:2px;background:#bdbdbd;display:inline-block;position:relative}.all-menu-tablet .hamburger:before,.all-menu-tablet .hamburger:after{content:'';width:20px;height:2px;background:#BDBDBD;position:absolute;left:0}.all-menu-tablet .hamburger:before{top:6px}.all-menu-tablet .hamburger:after{top:12px}.all-menu-tablet.close-menu-tablet{padding-top:5px}.all-menu-tablet.close-menu-tablet .hamburger{transform:rotate(45deg);-webkit-transform:rotate(45deg)}.all-menu-tablet.close-menu-tablet .hamburger:before{display:none}.all-menu-tablet.close-menu-tablet .hamburger:after{transform:rotate(-90deg);-webkit-transform:rotate(-90deg);top:0}.myvne_taskbar{margin-left:20px}.myvne_taskbar .log_txt{height:32px;line-height:32px;color:#4f4f4f}.myvne_taskbar .log_txt .ic-user{fill:#bdbdbd;margin-right:5px;margin-top:-2px}.myvne_taskbar .log_txt:hover{color:#087CCE}.logo{display:inline-block;float:left;padding-top:2px}.btn24hqua,.evne{height:32px;line-height:30px;padding:0 10px;border:1px solid #E5E5E5;border-radius:3px;font-size:14px;color:#757575;display:inline-block}.btn24hqua .ic,.evne .ic{margin-right:5px;margin-top:-1px}.btn24hqua:hover,.evne:hover{color:#4f4f4f;background:#f7f7f7}.btn24hqua .ic{fill:#bdbdbd}.btn24hqua.active{color:#fff;background:#9f224e;border:1px solid #9f224e}.btn24hqua.active .ic{fill:#fff}.evne{margin-left:15px}.time-now{font-size:14px;line-height:32px;color:#757575;position:relative;margin-left:20px;padding-left:15px;float:left}.time-now:before{content:'';width:1px;height:26px;background:#E5E5E5;position:absolute;left:0;top:2px}.box-category{width:100%;float:left;margin-bottom:20px}.box-category.has-border{padding-bottom:20px;border-bottom:1px solid #e5e5e5}.box-last{margin-bottom:0}.meta-news{color:#757575;font-size:12px;line-height:14px;font-weight:400!important}.meta-news .time-public{display:inline-block;margin-right:10px}.meta-news .cat{display:inline-block;margin-right:10px}.meta-news .cat:hover{color:#087CCE}.meta-news .count_cmt,.meta-news .icon_commend{font-size:12px;color:#076DB6;display:inline-block;text-decoration:none!important}.meta-news .count_cmt .ic,.meta-news .icon_commend .ic{fill:#bdbdbd;width:12px;height:12px;margin-right:1px}.meta-news .count_cmt:hover,.meta-news .icon_commend:hover{color:#087CCE}.meta-news .count_cmt:hover .ic,.meta-news .icon_commend:hover .ic{fill:#999}.meta-news .icon_commend .ic{margin-right:0}.meta-news .ic-time{vertical-align:top;width:14px;height:14px;margin-right:5px;fill:#BDBDBD}.icon_commend{font-size:12px;color:#076DB6;display:inline-block;vertical-align:top;text-decoration:none}.icon_commend .ic{fill:#bdbdbd;width:12px;height:12px;margin-right:0}.icon_commend:hover{color:#087CCE}.icon_commend:hover .ic{fill:#999}.location-stamp{color:#757575!important;font-size:12px;text-transform:uppercase;margin-right:12px;letter-spacing:-.5px;position:relative}.location-stamp:before{content:"";position:absolute;bottom:5px;width:7px;height:1px;background:#757575;right:-8px}.title-news a:hover{color:#087CCE}.item-news{width:100%;float:left;padding-bottom:15px;margin-bottom:15px;border-bottom:1px solid #E5E5E5}.item-news .title-news{font-family:"Merriweather",serif;font-size:14px;line-height:160%;margin-bottom:5px}.item-news .title-news .meta-news{float:none;display:inline-block;vertical-align:middle;margin-left:8px;font-family:arial}.item-news .thumb-art{width:260px;float:left;margin-right:20px}.item-news.full-thumb .thumb-art{width:100%;margin:0 0 10px 0}.item-news.small-thumb .thumb-art{width:120px;margin-right:10px}.item-news .description{line-height:140%;font-size:14px}.item-news .description .meta-news{float:none;display:inline-block;vertical-align:middle;margin-left:5px}.label_red{color:#9f224e}.section_topstory{padding-top:20px}.article-topstory{width:550px;padding-bottom:0;margin-bottom:0;border:none}.article-topstory .description{clear:both;font-size:14px;line-height:140%}.article-topstory .location-stamp{font-size:12px}.article-topstory .icon_thumb_videophoto{width:32px;height:32px;line-height:32px;bottom:10px;left:10px}.article-topstory .icon_thumb_videophoto .ic{width:18px;height:18px}.article-topstory .title-news{width:100%;float:left;font-size:24px;font-weight:400}.article-topstory.full-thumb .thumb-art{margin:0 0 15px 0}.related_news{margin-top:10px;font-size:12px;line-height:140%}.related_news a{color:#757575;position:relative;font-weight:700;padding-left:10px}.related_news a:before{width:5px;height:5px;background:#BDBDBD;content:'';border-radius:50%;position:absolute;top:4px;left:0}.related_news a:hover{color:#087CCE}.sub-news-top{width:230px;padding-left:20px;position:relative}.sub-news-top .inner-sub-news-top{position:absolute;height:100%;top:0;left:20px;overflow:hidden}.sub-news-top .scroll-sub-featured{max-height:100%}.list-sub-feature{padding-right:15px}.list-sub-feature li{width:100%;float:left;margin-top:10px;padding-top:10px;border-top:1px solid #E5E5E5}.list-sub-feature li:first-child{margin-top:0;padding-top:0;border-top:none}.list-sub-feature li:last-child{margin-bottom:10px;padding-bottom:25px}.list-sub-feature li .title_news{font-size:14px;line-height:160%;font-family:"Merriweather",serif}.list-sub-feature li .title_news:hover{color:#087CCE}.col-right-top{width:320px;padding-left:20px}.col-right-top .box-category:last-child{margin-bottom:0}.has_border{margin-top:20px;padding-top:20px}.has_border:before{width:calc(100% - 30px);background:#E5E5E5;height:1px;position:absolute;top:0;left:15px;content:''}.col-left{padding-right:15px;position:relative}.col-left:after{content:'';width:1px;height:100%;background:#E5E5E5;position:absolute;top:0;right:0}.col-right{padding-left:15px}.col-small{width:420px}.col-medium{width:680px}.col-center{padding-left:15px;padding-right:15px;position:relative}.col-center:after{content:'';width:1px;height:100%;background:#E5E5E5;position:absolute;top:0;right:0}.col-335{width:365px}.section_stream_home .col-small{width:400px}.section_stream_home .col-left{padding-right:20px}.section_stream_home .col-medium{width:700px}.section_stream_home .col-right{padding-left:20px}.item-news-common{border-top:1px solid #E5E5E5;margin-top:15px;padding-top:15px;border-bottom:none;margin-bottom:0;padding-bottom:0}.item-news-common:first-of-type{border-top:none;margin-top:0;padding-top:0}.item-news-common .title-news{font-size:15px;font-weight:700;margin-bottom:10px}.item-news-common .thumb-art{width:145px;margin-right:10px}.item-news-common .description{font-size:14px;line-height:140%}.item-news-common p.meta-news{margin-top:10px}.top-header-folder{padding:0;border:none}.top-header-folder .search{width:300px;margin-left:0;padding-left:0}.top-header-folder .search:before{display:none}.text-calendar{font-size:14px;line-height:16px;color:#757575;padding:3px 15px 3px 0;margin-right:15px;border-right:1px solid #E5E5E5;cursor:pointer}.text-calendar .ic{fill:#BDBDBD;margin-right:8px;margin-top:-3px}.text-calendar:hover,.text-calendar.active{color:#087CCE}.text-calendar:hover .ic,.text-calendar.active .ic{fill:#087CCE}.top-folder{align-items:center;padding:20px 0 10px 0}.filter-date-search{margin-left:auto;align-items:center}.title-folder{font-family:"Merriweather",serif;font-weight:700;color:#9f224e;font-size:32px;line-height:1.25}.nav-folder .ul-nav-folder{width:100%;float:left;border-bottom:1px solid #E5E5E5}.nav-folder .ul-nav-folder li{float:left;margin-right:25px}.nav-folder .ul-nav-folder li a{display:block;padding:12px 0;font-size:14px;line-height:120%;color:#4f4f4f;font-weight:700;position:relative}.nav-folder .ul-nav-folder li a:after{content:'';width:100%;height:1px;background:transparent;position:absolute;bottom:-1px;left:0}.nav-folder .ul-nav-folder li:hover a{color:#B52759}.nav-folder .ul-nav-folder li.active a{color:#9f224e}.nav-folder .ul-nav-folder li.active a:after{background:#9f224e}.nav-folder .ul-nav-folder li:last-child{margin-right:0}.nav-folder .ul-nav-folder.ul-subfolder li a{font-weight:400}.nav-folder .ul-nav-folder.ul-subfolder li.active a{color:#9f224e}.nav-folder .ul-nav-folder.ul-subfolder li.active a:after{display:none}.nav-folder .ul-nav-folder.ul-subfolder-business li{margin-right:28px;position:relative}.nav-folder .ul-nav-folder.ul-subfolder-business li:after{width:1px;height:15px;background:#e5e5e5;content:'';position:absolute;top:13px;right:-16px}.nav-folder .ul-nav-folder.ul-subfolder-business li:last-child{margin-right:0}.nav-folder .ul-nav-folder.ul-subfolder-business li:last-child:after{display:none}.nav-folder .ul-nav-folder.ul-subfolder-business li:last-child a{color:#757575}.nav-folder .ul-nav-folder.ul-subfolder-business li:first-child:after{width:7px;height:7px;background:none;border:solid #BDBDBD;border-width:0 1px 1px 0;content:'';position:absolute;top:16px;right:-16px;-webkit-transform:rotate(315deg);-ms-transform:rotate(315deg);transform:rotate(315deg)}.nav-folder .ul-nav-folder.ul-subfolder-business li:not(:first-child).active a{color:#222;text-decoration:underline;text-underline-position:under}.section_topstory_folder{padding-top:15px}.col-left-top{width:780px}.wrapper-topstory-folder .article-topstory{width:545px;padding-right:15px}.wrapper-topstory-folder .article-topstory .description{font-size:14px;line-height:140%}.wrapper-topstory-folder .article-topstory p:not(.description),.wrapper-topstory-folder .article-topstory p:not(.meta-news){margin-top:10px;font-size:14px;line-height:140%}.wrapper-topstory-folder .article-topstory .location-stamp{font-size:12px}.wrapper-topstory-folder .article-topstory .title-news{font-size:20px}.wrapper-topstory-folder .sub-news-top{width:235px;padding-left:15px;height:530px}.wrapper-topstory-folder .sub-news-top .inner-sub-news-top{left:15px}.wrapper-topstory-folder .sub-news-top:before{left:15px}.wrapper-topstory-folder .sub-news-top:after{content:'';width:1px;height:100%;background:#E5E5E5;position:absolute;top:0;left:0}.wrapper-topstory-folder .list-sub-feature li .title_news{font-size:16px;font-weight:400;font-family:"Merriweather",serif}.wrapper-topstory-folder .list-sub-feature li .description{font-size:14px;line-height:140%;margin-top:5px}.wrapper-topstory-folder .list-sub-feature li p.meta-news{margin-top:5px}.wrapper-topstory-folder.wrapper-topstory-folder-v2{flex-wrap:wrap;flex-direction:column;min-height:530px}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory{width:100%;background:#F7F7F7;padding-right:20px}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory .thumb-art{width:513px;margin:0 20px 0 0}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory .title-news{width:auto;float:none;margin-bottom:10px;padding-top:20px;font-weight:700}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory .description{clear:none}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .article-topstory p.meta-news{margin-top:5px}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .related_news{margin-top:15px}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .sub-news-top{margin-top:20px;padding-top:15px;border-top:1px solid #e5e5e5;width:100%;padding-left:0;height:auto}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .sub-news-top:after{display:none}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .sub-news-top .inner-sub-news-top{position:static}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .sub-news-top:before{display:none}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .scroll-sub-featured{width:100%;float:left}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .list-sub-feature{width:calc(100% + 20px);margin-left:-20px;font-size:0;padding-right:0}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .list-sub-feature li{width:33.333333%;float:none;padding-left:20px;display:inline-block;vertical-align:top;margin-top:0;padding-top:0;border-top:none}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .list-sub-feature li .description{margin-top:10px}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .list-sub-feature li .title_news{font-size:15px;font-weight:700}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .list-sub-feature li p.meta-news{margin-top:10px}.wrapper-topstory-folder.wrapper-topstory-folder-v2 .list-sub-feature li:last-child{margin-bottom:0;padding-bottom:0}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home{min-height:inherit}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .article-topstory .thumb-art{width:520px}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .article-topstory p.meta-news{margin-top:10px}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .sub-news-top{padding-top:0;border-top:none}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .list-sub-feature li{width:32.5%}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .list-sub-feature li.item-gocnhin{width:35%;padding-left:40px;position:relative}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-home .list-sub-feature li.item-gocnhin:before{width:2px;height:100%;content:'';background:#e5e5e5;position:absolute;top:0;left:20px}.wrapper-topstory-folder.wrapper-topstory-folder-v2.wrapper-topstory-subfolder .article-topstory .thumb-art{width:470px}.wrapper-topstory-folder .extend-lead a{position:relative;display:table}.wrapper-topstory-folder .extend-lead a:before{width:100%;height:20px;content:'';background:linear-gradient(45deg,rgba(247,247,247,0) 0%,#F7F7F7 75.52%);background:-webkit-linear-gradient(45deg,rgba(247,247,247,0) 0%,#F7F7F7 75.52%);position:absolute;right:0;bottom:0}.col-left-subfolder .wrapper-topstory-folder-v2{height:auto;min-height:inherit}.pagination{align-items:center;margin-top:20px;padding-top:20px;border-top:1px solid #E5E5E5}.pagination .text-calendar{margin-right:0;padding-right:0;border-right:none}.pagination .paging{margin-left:auto}.pagination.pagination-folder{padding-right:430px}.pagination.pagination-subfolder{padding-right:360px}.paging{align-items:center}.paging .select-page{position:relative}.paging .select-page .selected-page{height:40px;border-radius:3px;line-height:40px;font-size:15px;color:#757575;position:relative;display:inline-block}.paging .select-page .box-open-select{width:100%;position:absolute;bottom:35px;left:0;background:#fff;height:215px;overflow:hidden;visibility:hidden;opacity:0;transition-duration:200ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1);border:1px solid #E5E5E5;box-shadow:0 2px 8px rgba(0,0,0,.1);border-radius:3px}.paging .select-page .box-open-select .page-s{display:block;font-size:15px;padding:10px 15px}.paging .select-page .box-open-select .page-s:hover{background:#F7F7F7}.paging .select-page.active .box-open-select{bottom:45px;opacity:1;visibility:visible}.paging .select-page.active .selected-page{background:#f7f7f7}.paging .button-page{margin-left:20px;align-items:center}.paging .button-page .btn-page{width:40px;height:40px;text-align:center;line-height:36px;border:1px solid #e5e5e5;border-radius:3px;float:left;position:relative;margin-left:10px;color:#757575}.paging .button-page .btn-page .ic{fill:#4f4f4f;width:10px;height:10px}.paging .button-page .btn-page:hover{background:#F7F7F7}.paging .button-page .btn-page.active{border:1px solid #9f224e;background:#9f224e;color:#fff}.paging .button-page .btn-page.disable{background:#f7f7f7;border:1px solid #f7f7f7}.paging .button-page .btn-page.disable .ic{fill:#BDBDBD}.paging .button-page .btn-page.type_page{-moz-appearance:none;-webkit-appearance:none;padding:0;margin:0 5px;text-align:center;font-size:15px;font-weight:700;color:#222;min-width:40px!important;max-width:99.99%!important;transition:width 0.25s}.paging .button-page .btn-page.type_page:focus{border:1px solid #757575}.filter-date-search .pagination{margin-top:0;padding-top:0;border-top:none;position:relative;margin-right:15px;padding-right:15px}.filter-date-search .pagination:after{content:'';width:1px;height:22px;background:#e5e5e5;position:absolute;top:9px;right:0}.col-left-subfolder{width:770px;padding-right:30px;border-right:none}.col-left-subfolder .wrapper-topstory-folder{padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid #E5E5E5}.col-right-subfolder{width:330px;padding-left:30px}.list-news-subfolder .item-news-common{padding-top:20px;margin-top:20px}.list-news-subfolder .item-news-common .title-news{margin-bottom:5px;font-size:20px;font-weight:400}.list-news-subfolder .item-news-common .thumb-art{width:220px;margin-right:0;float:right;margin-left:40px}.list-news-subfolder .item-news-common .description{font-size:14px;line-height:140%}.list-news-subfolder .item-news-common.off-thumb .title-news,.list-news-subfolder .item-news-common.off-thumb .description{max-width:600px}.list-news-subfolder .item-news-common:first-of-type{margin-top:0;padding-top:0}.col-left-border{padding-right:20px;position:relative}.col-left-border:after{content:'';width:1px;height:100%;background:#E5E5E5;position:absolute;top:0;right:0}.wrapper-topstory-folder .sub-news-top-photo{height:auto}.wrapper-topstory-folder .sub-news-top-photo:before{display:none}.sub-news-top-photo .item-news:last-of-type{margin-bottom:0;padding-bottom:0;border-bottom:none}.list-news-folder-photo{font-size:0}.list-news-folder-photo .item-news{display:inline-block;vertical-align:top;border-bottom:none;padding-bottom:0;width:50%;float:none;margin-bottom:20px}.list-news-folder-photo .item-news:nth-child(even){padding-left:10px}.list-news-folder-photo .item-news:nth-child(odd){padding-right:10px}.list-news-folder-photo .item-news:nth-last-of-type(-n+2){margin-bottom:0}.list-news-folder-photo .item-news .title-news{font-size:15px;font-weight:700;line-height:160%}.list-news-folder-photo .item-news .icon_thumb_videophoto{width:28px;height:28px;line-height:28px}.top-header-folder-dateview .top-folder{padding-bottom:15px;border-bottom:1px solid #e5e5e5}.select-cate-date .text-calendar{margin-right:0;padding-right:0;border-right:none}.select-cate-date .cate-select{align-items:center;color:#4f4f4f;font-size:14px;margin-right:20px}.select-cate-date .cate-select span{padding-right:10px}.select-cate-date .option-cate{width:190px;font-size:14px;color:#4f4f4f;cursor:pointer}.select-cate-date .filter-date-search{margin-left:inherit}img:not([src]):not([srcset]){visibility:hidden}.tip{position:absolute;top:-30px;left:50%;transform:translateX(-50%);height:24px;line-height:24px;background:#17191A;color:#fff!important;font-size:12px!important;text-decoration:none!important;white-space:nowrap;padding:0 10px;border-radius:3px}.social_pin{width:65px;padding-top:150px;position:sticky;position:-webkit-sticky;top:0;left:0;height:100%;padding-bottom:20px;opacity:1;visibility:visible;z-index:1;transition-duration:250ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1)}.social_pin.social_pin_folder{padding-top:0;width:70px;padding-left:38px;top:70px}.social_pin .social_left li{margin-top:10px;width:32px}.social_pin .social_left li a{width:32px;height:32px;border-radius:50%;background:#fff;justify-content:center;position:relative;border:1px solid #E5E5E5}.social_pin .social_left li a .ic{fill:#93908A;align-self:center}.social_pin .social_left li a:hover .ic{fill:#fff}.social_pin .social_left li a.social_fb:hover{background:#3B5999;border:1px solid #3B5999}.social_pin .social_left li a.social_twit:hover{background:#55ACEE;border:1px solid #55ACEE}.social_pin .social_left li a.social_save:hover{background:#087CCE;border:1px solid #087CCE}.social_pin .social_left li a.social_save.active{background:#076DB6;border:1px solid #076DB6}.social_pin .social_left li a.social_save.active .ic{fill:#fff}.social_pin .social_left li a.social_comment:hover{background:#B52759;border:1px solid #B52759}.social_pin .social_left li a .number_cmt{font-size:12px;color:#757575;position:absolute;bottom:-20px;left:50%;transform:translateX(-50%)}.social_pin .social_left li a.social_back{overflow:hidden}.social_pin .social_left li a.social_back .ic{transform:rotate(180deg)}.social_pin .social_left li a.social_back .tip{left:20px;transform:none;top:0;opacity:0;transition-duration:200ms;transition-property:all;transition-timing-function:cubic-bezier(.7,1,.7,1);visibility:hidden}.social_pin .social_left li a.social_back:hover{background:#087CCE;border:1px solid #087CCE;overflow:visible}.social_pin .social_left li a.social_back:hover .tip{opacity:1;top:-15px;visibility:visible}.social_pin .social_left li.border{padding-top:10px;position:relative}.social_pin .social_left li.border:before{content:'';width:23px;height:1px;background:#E0E0E0;position:absolute;top:0;left:5px}.social_pin .social_left li.li_comment{padding-bottom:20px}.social_pin .social_left li:first-child{margin-top:0}.social_pin.hide_pin{opacity:0;visibility:hidden}.breadcrumb{float:left}.breadcrumb li{position:relative;display:inline-block;line-height:16px;font-size:14px;color:#757575;margin-right:25px}.breadcrumb li a{display:inline-block}.breadcrumb li:after{content:'';width:7px;height:7px;border-top:1px solid #BDBDBD;border-right:1px solid #BDBDBD;transform:rotate(45deg);position:absolute;left:-19px;top:5px}.breadcrumb li:first-child{color:#076DB6}.breadcrumb li:first-child:after{content:none}.box-gocnhin{padding-bottom:15px!important;margin-bottom:15px}.box-gocnhin .item-news .description{font-size:14px;line-height:140%}.box-gocnhin .title-news{font-size:15px;font-weight:700}.box-gocnhin .meta-news{font-size:14px;line-height:16px;color:#4f4f4f}.art-top-gn{width:400px;padding-bottom:0;margin-bottom:0;border-bottom:none;padding-right:20px}.info-author{align-items:flex-end;margin-top:5px}.info-author .meta-news .cat{font-family:"Merriweather",serif;font-size:14px;color:#757575;font-style:italic;line-height:140%;margin-right:0}.info-author .meta-news .cat:hover{color:#087CCE}.sub-art-gn{width:265px;padding-left:20px;border-left:1px solid #E5E5E5}.sub-art-gn .info-author{margin-top:0}.sub-art-gn .item-news{padding-bottom:10px;margin-bottom:10px;border-bottom:1px solid #E5E5E5}.sub-art-gn .item-news:last-of-type{padding-bottom:0;margin-bottom:0;border-bottom:none}.sub-art-gn .title-news{margin-bottom:0}.thumb-author-gn.thumb-art{width:90px;margin-left:15px;margin-right:0;margin-bottom:0;float:right}.thumb-author-gn.thumb-art .thumb{border-radius:50%}.item-gocnhin .art-top-gn{width:100%;padding-right:0;min-height:168px;position:relative}.item-gocnhin .art-top-gn .title-news{font-size:15px;font-weight:700;margin-bottom:0}.item-gocnhin .art-top-gn .description{min-height:57px}.item-gocnhin .info-author{margin-top:0;position:absolute;right:0;bottom:0}.item-gocnhin .thumb-author-gn.thumb-art{width:75px;margin-left:0}.item-gocnhin p.meta-news{width:calc(100% - 75px);padding-right:15px;margin-top:0!important}.item-gocnhin p.meta-news .count_cmt{margin-top:8px}.box-placeholder{font-size:0;line-height:0}.box-placeholder .text{display:inline-block;background-color:#444;height:12px;border-radius:100px;margin:5px 0;min-width:100px;opacity:.1;animation:fading 1.5s infinite}.box-placeholder .text:first-child{margin-top:0}.box-placeholder .text:last-child{margin-bottom:0}.box-placeholder .text.link{background-color:var(--blue);opacity:.4}.box-placeholder .text.line{width:100%}.box-placeholder .text.category{width:100px;margin-bottom:10px}.box-placeholder h4.text{height:20px;margin:3px 0;opacity:.2}.box-placeholder .title-news .text{margin:0}.box-placeholder.item-news-common .title-news+.thumb-art+.text{width:calc(100% - 100px)}.box-placeholder.item-news-common .title-news+.thumb-art+.text+.text{width:calc(100% - 130px);clear:both}.box-placeholder.item-news-common .title-news+.text{width:100%}.box-placeholder.item-news-common .title-news+.text+.text{width:calc(100% - 30px);clear:both}.box-placeholder .title-box-category .text{height:20px}.box-placeholder.box-gocnhin .title-news .text{height:17px;width:calc(100% - 105px)}.box-placeholder.box-gocnhin .title-news+.text{width:calc(100% - 140px)}.box-placeholder.box-slide-topic{padding:0}.box-placeholder.box-slide-topic .text{height:25px;border-radius:100px;margin-top:11px}.section_video .box-placeholder .text.thumb-video{border-radius:0;margin-bottom:0}.section_video .box-placeholder .title-news{line-height:100%}.section_video .box-placeholder .title-news .text{height:17px}.section_video .box-placeholder .box-scroll-video .thumb-art+.text{width:calc(100% - 130px)}.section_video .box-placeholder .box-scroll-video .thumb-art+.text+.text{width:calc(100% - 160px);clear:both}.box-cate-featured-vertical.box-placeholder .sub-news-cate .thumb-art+.text{width:calc(100% - 86px)}.box-cate-featured-vertical.box-placeholder .sub-news-cate .thumb-art+.text+.text{width:calc(100% - 116px);clear:both}.box-placeholder .wrap-slide-photo .text{height:503px;border-radius:0;background-color:#aaa}.box-ebank-qt .box-placeholder .wrap-slide-bank-qt .text{height:140px;border-radius:0;background-color:#aaa}.box-news-other-site .box-placeholder .title-news{line-height:120%}.box-news-other-site .box-placeholder .title-news .text{width:calc(100% - 280px);height:17px}.box-news-other-site .box-placeholder .title-news .text+.text{width:20%;height:17px}.box-news-other-site .box-placeholder .title-news+.text{width:calc(100% - 280px);clear:both;margin-top:10px}.box-placeholder.box-info-company .wrap-slide-business .text{height:210px;border-radius:0;background-color:#aaa}.box-placeholder.box-shop-sell .wrap-slide-business .text{height:100px;border-radius:0;background-color:#aaa}.box-placeholder.box-shop-sell-vertical .wrap-slide-business .text{height:445px;border-radius:0;background-color:#aaa}.box-placeholder.box-wiki-kidlab .wrap-slide-business .text{height:212px}.list-news-subfolder .box-placeholder .title-news{line-height:130%}.list-news-subfolder .box-placeholder .title-news .text{width:calc(100% - 260px);height:15px}.list-news-subfolder .box-placeholder .title-news .text+.text{width:100px;height:15px}.list-news-subfolder .box-placeholder .title-news+.text{width:calc(100% - 260px)}.list-news-subfolder .box-placeholder .title-news+.text+.text{width:calc(100% - 260px);clear:both}.list-news-subfolder .box-placeholder .title-news+.text+.text+.text{width:100px}.box-news-banner.box-placeholder .content-box-category .text.line{height:56px;border-radius:0}.block-item.box-placeholder .title-block-live{margin-top:20px}.block-item.box-placeholder .title-block-live .text{height:20px}.block-item.box-placeholder .title-block-live .text+.text{width:80%}.block-item.box-placeholder .header-block+.text+.text{width:80%;clear:both}.block-item.box-placeholder .header-block+.text+.text+.text{width:60%;clear:both}.block-item.box-placeholder .header-block+.text+.text+.text+.text{width:40%;clear:both;margin-right:60%}.block-item.box-placeholder .header-block+.text+.text+.text+.text+.text{width:10%;clear:both}.block-item.box-placeholder .social-block{margin-top:25px}.block-item.box-placeholder .social-block .text{height:20px}.ds-dienbien .box-placeholder .text{height:17px}.ds-dienbien .box-placeholder .text+.text{height:12px}.banner-ads.box-placeholder .text{border-radius:10px;margin:0}.banner-ads.box-placeholder.banner-height-250 .text{height:250px}.banner-ads.box-placeholder.banner-height-500 .text{height:500px}.banner-ads.box-placeholder.banner-height-600 .text{height:600px}.banner-ads.box-placeholder.banner-height-90 .text{height:90px}.slide-table-tt.box-placeholder .text{height:134px;border-radius:0}.box-placeholder .colbox-left .title-news{line-height:29px;margin-bottom:10px}.box-placeholder .colbox-left .title-news .text{height:20px}.box-placeholder .colbox-right .title-news .text.line{width:calc(100% - 115px)}.box-placeholder.box-cate-featured-v2 .sub-news-cate .item-news:before{display:none}@keyframes fading{0%{opacity:.1}50%{opacity:.2}100%{opacity:.1}}.text-center{text-align:center}.col-1{max-width:272px;width:100%;float:left}.col-2{max-width:calc(100% - 287px);width:100%;float:right;margin-left:15px;padding-left:15px;padding-top:30px}.col-2 p{color:#757575;font-size:13px;line-height:1.4}.result-drunk .num{font-size:20px;line-height:1.4;color:#8B1E44;margin-bottom:10px;display:inline-block;position:absolute;right:0;top:-9px}.result-drunk .num .unit{color:#9F224E;font-size:12px;line-height:1.4;font-weight:400}.result-drunk .content{margin-bottom:5px;position:relative}.result-drunk .content .title{margin-bottom:5px;display:inline-block;font-size:13px;line-height:1.143}.mucphat{text-align:center;margin-bottom:5px}.mucphat .note{color:#AE2727;font-size:14px;font-style:normal;line-height:1.143;text-align:left;margin-bottom:13px}.mucphat img{margin-bottom:10px}.mucphat .label{display:block;clear:both;color:#8B1E44;font-weight:700;margin-bottom:13px;font-size:14px}.mucphat .label span{color:#757575;font-style:italic;display:block;font-weight:400}.mucphat .sub-label{width:100%;float:left;text-align:left;position:relative;top:-13px;left:9px;color:#757575;font-style:italic}.mucphat .label-row{color:#757575;font-size:12px;line-height:1.16;text-align:left;margin-bottom:5px;margin-top:2px;white-space:nowrap}.mucphat .label-row span{color:#BDBDBD;font-style:italic;margin-top:3px;display:block}.mucphat .width_common .flexbox:first-child{align-items:center}.flexbox{display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex}.box-drunk-formula{border:1px solid #E5E5E5;padding:15px;position:relative;width:100%;float:left;margin-bottom:20px}.box-drunk-formula:before{content:'';width:1px;height:100%;background:#E6E6E6;position:absolute;right:calc(100% - 302px);top:0}.box-drunk-formula .header{background:#E5E5E5;font-family:Arial;font-weight:700;font-size:16px;height:44px;line-height:44px;color:#8B1E44;padding-left:14px;margin:-15px -15px 21px}.box-drunk-formula .block{display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex;width:100%;flex-direction:column;align-items:center;margin-right:15px}.box-drunk-formula .block:last-child{margin-right:0}.box-drunk-formula .block .wrap-icon{display:block;height:65px}.box-drunk-formula .block .wrap-icon img{height:50px}.box-drunk-formula .block input[type="text"],.box-drunk-formula .block input[type="number"],.box-drunk-formula .block input[type="tel"]{width:73px;height:36px;line-height:36px;text-align:center;outline:none;margin-bottom:5px;color:#222;border-radius:2px;font-size:16px}.box-drunk-formula .block input[type="text"]:focus,.box-drunk-formula .block input[type="number"]:focus,.box-drunk-formula .block input[type="tel"]:focus{border:1px solid #757575;color:#222}.box-drunk-formula .block .text{color:#757575;font-size:14px}.box-drunk-formula.drunk-300{max-width:300px}.box-drunk-formula.drunk-300:before{content:none}.box-drunk-formula.drunk-300 .col-1{max-width:100%}.box-drunk-formula.drunk-300 .col-2{max-width:100%;margin-left:0;padding-left:0;padding-top:30px;position:relative}.box-drunk-formula.drunk-300 .col-2:before{content:'';width:calc(100% + 20px);height:1px;background:#E6E6E6;position:absolute;left:-10px;top:18px}.box-drunk-formula.drunk-300 .col-2 .text-center{padding-left:30px;padding-right:30px}.box-drunk-formula.drunk-300 .btn-gioitinh{height:36px;line-height:36px;flex-direction:row}.box-drunk-formula.drunk-300 .btn-gioitinh img{width:19px;height:19px;margin-right:7px;margin-bottom:0}.box-drunk-formula.drunk-300 .result-drunk .num{background:#F7F7F7;border-radius:2px;display:inline-block;margin-bottom:0;min-width:69px;display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex;flex-direction:column;font-size:22px;text-align:center;padding:5px;position:absolute;right:0;top:10px}.box-drunk-formula.drunk-300 .result-drunk .content{float:left;width:100%;padding-top:10px;position:relative;padding-right:90px;min-height:50px}.box-drunk-formula.drunk-300 .result-drunk .content.center .title{padding-top:10px}.box-drunk-formula.drunk-300 .mucphat{padding-bottom:18px;border-bottom:1px solid #E6E6E6}.box-drunk-formula.drunk-680 .mucphat{margin-bottom:15px}.box-drunk-formula.drunk-680 .mucphat .label-row span{display:inline-block}.box-drunk-formula.drunk-680 .result-drunk .content{position:relative}.box-drunk-formula.drunk-680 .result-drunk .content>p{margin-top:15px}.box-drunk-formula.drunk-680 .result-drunk .num{position:absolute;right:0;top:-10px}.btn-gioitinh{width:100%;height:68px;text-align:center;border:1px solid #E6E6E6;border-radius:2px;margin-bottom:30px;flex-direction:column;align-items:center;justify-content:center;position:relative;font-size:15px;color:#222!important;text-decoration:none!important}.btn-gioitinh .text{line-height:normal}.btn-gioitinh.active{background:#F2F2F2;border:1px solid #757575}.btn-gioitinh.active:before{content:'';width:20px;height:20px;background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iMTAiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMCAyQzUuNiAyIDIgNS42IDIgMTBDMiAxNC40IDUuNiAxOCAxMCAxOEMxNC40IDE4IDE4IDE0LjQgMTggMTBDMTggNS42IDE0LjQgMiAxMCAyWk0xNC40NjY3IDcuOEw5LjEzMzMzIDEzLjEzMzNDOSAxMy4yNjY3IDguODY2NjcgMTMuMzMzMyA4LjY2NjY3IDEzLjMzMzNDOC40NjY2NyAxMy4zMzMzIDguMzMzMzMgMTMuMjY2NyA4LjIgMTMuMTMzM0w1LjUzMzMzIDEwLjQ2NjdDNS4yNjY2NyAxMC4yIDUuMjY2NjcgOS44IDUuNTMzMzMgOS41MzMzM0M1LjggOS4yNjY2NyA2LjIgOS4yNjY2NyA2LjQ2NjY3IDkuNTMzMzNMOC42NjY2NyAxMS43MzMzTDEzLjUzMzMgNi44NjY2N0MxMy44IDYuNiAxNC4yIDYuNiAxNC40NjY3IDYuODY2NjdDMTQuNzMzMyA3LjEzMzMzIDE0LjczMzMgNy41MzMzMyAxNC40NjY3IDcuOFoiIGZpbGw9IiM5RjIyNEUiLz4KPC9zdmc+Cg==) no-repeat;position:absolute;right:-8px;top:-8px}.btn-gioitinh.disable{opacity:.4}.btn-gioitinh img{width:24px;height:24px;margin-bottom:4px}.btn-gioitinh:last-child{margin-left:16px}.title-block{font-family:Arial;font-weight:700;font-size:14px;line-height:16px;display:inline-block;margin-bottom:15px}</style><link rel="preload" href="https://s1.vnecdn.net/vnexpress/restruct/c/v616/v2_2019/pc/general-file.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://s1.vnecdn.net/vnexpress/restruct/c/v616/v2_2019/pc/general-file.css" crossorigin="anonymous"></noscript>
+<style class="webfont" data-cache-name="Merriweather" data-cache-file-woff2="https://s1.vnecdn.net/vnexpress/restruct/c/v616/v2_2019/pc/webfonts/Merriweather-woff2.css" data-cache-hash-woff2="fc2b038bec1f4b4d7dd2f8019a57a7ad" data-cache-file-woff="https://s1.vnecdn.net/vnexpress/restruct/c/v616/v2_2019/pc/webfonts/Merriweather-woff.css" data-cache-hash-woff="cee538b68f8fa3400618e4a4f363a223" data-cache-file-ttf="https://s1.vnecdn.net/vnexpress/restruct/c/v616/v2_2019/pc/webfonts/Merriweather-ttf.css" data-cache-hash-ttf="23fc73084560a7f6cc4057edce36ccd5"></style>
+<script type="text/javascript">var fallback='https://s1.vnecdn.net/vnexpress/restruct/c/v616/v2_2019/pc/webfonts/fonts.css';var ua=navigator.userAgent;var isBot=(typeof navigator!=="undefined"&&/headless/i.test(navigator.userAgent));var revisionCSS='v616';var ES6=0;function loadFontsFromStorage(){try{var saveFont=function(fontName,fontHash,css){for(var i=0,totalItems=localStorage.length;i<totalItems-1;i++){var key=localStorage.key(i);if(key.indexOf(fontStorageKey(fontName))!==-1){localStorage.removeItem(key);break}}localStorage.setItem(fontStorageKey(fontName,fontHash),JSON.stringify({value:css}))};var fetchFont=function(url,el,fontName,fontHash){var xhr=new XMLHttpRequest;this["guFont"]=function(fontData){return fontData.css};xhr.open("GET",url,true);xhr.onreadystatechange=function(){if(xhr.readyState===4&&xhr.status===200){var css=xhr.responseText;useFont(el,css,fontName);saveFont(fontName,fontHash,css)}};xhr.send()};var useFont=function(el,css,fontName){el.innerHTML=css};var fontStorageKey=function(fontName,fontHash){fontHash=fontHash===undefined?"":fontHash;return"gu.fonts."+fontName+"."+fontHash};var fontFormat=function(){var formatStorageKey="gu.fonts.format";var format=localStorage.getItem(formatStorageKey);function supportsWoff2(){if("FontFace"in window)try{var f=new window.FontFace("t",'url("data:application/font-woff2,") format("woff2")',{});f.load()["catch"](function(){});if(f.status==="loading")return true}catch(e){}if(!/edge\/([0-9]+)/.test(ua.toLowerCase())){var browser=/(chrome|firefox)\/([0-9]+)/.exec(ua.toLowerCase());var supportsWoff2$0={"chrome":36,"firefox":39};return!!browser&&supportsWoff2$0[browser[1]]<parseInt(browser[2],10)}return false}if(/value/.test(format)){format=JSON.parse(format).value;localStorage.setItem(formatStorageKey,format)}if(!format){format=supportsWoff2()?"woff2":ua.indexOf("android")>-1?"ttf":"woff";localStorage.setItem(formatStorageKey,format)}return format}();var fonts=document.querySelectorAll(".webfont");var urlAttribute="data-cache-file-"+fontFormat;var hashAttribute="data-cache-hash-"+fontFormat;var nameAttribute="data-cache-name";for(var i=0,j=fonts.length;i<j;++i){var font=fonts[i];var fontURL=font.getAttribute(urlAttribute);var fontName=font.getAttribute(hashAttribute);;var fontHash=font.getAttribute(nameAttribute);;var fontData=localStorage.getItem(fontStorageKey(fontName,fontHash));if(fontData)useFont(font,JSON.parse(fontData).value,fontName);else fetchFont(fontURL,font,fontName,fontHash)}return true}catch(e){}return false}function loadFontsAsynchronously(){try{var scripts=document.getElementsByTagName("script");var thisScript=scripts[scripts.length-1];var fonts=document.createElement("link");fonts.rel="stylesheet";fonts.className="webfonts";fonts.href=fallback;window.setTimeout(function(){thisScript.parentNode.insertBefore(fonts,thisScript)})}catch(e){}}</script>
+<script>if(('serviceWorker'in navigator)&&isBot===false){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw-production.js');});}</script>
+<script>!function(e){"use strict";var t=function(t,n,r){function o(){i.addEventListener&&i.removeEventListener("load",o),i.media=r||"all"}var a,l=e.document,i=l.createElement("link");if(n)a=n;else{var d=(l.body||l.getElementsByTagName("head")[0]).childNodes;a=d[d.length-1]}var s=l.styleSheets;i.rel="stylesheet",i.href=t,i.media="only x",function e(t){if(l.body)return t();setTimeout(function(){e(t)})}(function(){a.parentNode.insertBefore(i,n?a:a.nextSibling)});var u=function(e){for(var t=i.href,n=s.length;n--;)if(s[n].href===t)return e();setTimeout(function(){u(e)})};return i.addEventListener&&i.addEventListener("load",o),i.onloadcssdefined=u,u(o),i};"undefined"!=typeof exports?exports.loadCSS=t:e.loadCSS=t}("undefined"!=typeof global?global:this),function(e){if(e.loadCSS){var t=loadCSS.relpreload={};if(t.support=function(){try{return e.document.createElement("link").relList.supports("preload")}catch(e){return!1}},t.poly=function(){for(var t=e.document.getElementsByTagName("link"),n=0;n<t.length;n++){var r=t[n];"preload"===r.rel&&"style"===r.getAttribute("as")&&(e.loadCSS(r.href,r,r.getAttribute("media")),r.rel=null)}},!t.support()){t.poly();var n=e.setInterval(t.poly,300);e.addEventListener&&e.addEventListener("load",function(){t.poly(),e.clearInterval(n)}),e.attachEvent&&e.attachEvent("onload",function(){e.clearInterval(n)})}}}(this);var fetchSVG=function(filepath,keyName){if(!document.createElementNS||!document.createElementNS('http://www.w3.org/2000/svg','svg').createSVGRect){return true;}var revision=revisionCSS;var file=filepath;var keypath=keyName;if(typeof filepath==='undefined'||filepath===null){file=css_url_vne+'/v2_2019/pc/images/graphics/icon-vne.svg';}if(typeof keypath==='undefined'||keypath===null){keypath='inlineSVGdata';}var isLocalStorage=window.supportLS,request,data,insertIT=function(){document.body.insertAdjacentHTML('afterbegin',data);removeTitle();},insert=function(){if(document.body)insertIT();else document.addEventListener('DOMContentLoaded',insertIT);},removeTitle=function(){var svg=document.querySelectorAll('svg symbol');if(svg!=null){for(var i=0;i<svg.length;++i){var el=svg[i].querySelector('title');if(el!=null)el.parentNode.removeChild(el);}}};if(isLocalStorage&&localStorage.getItem('inlineSVGrev')==revision){data=localStorage.getItem(keypath);if(data){insert();return true;}}try{request=new XMLHttpRequest();request.open('GET',file,true);request.onload=function(){if(request.status>=200&&request.status<400){data=request.responseText;insert();if(isLocalStorage){localStorage.setItem(keypath,data);localStorage.setItem('inlineSVGrev',revision);}}}
+request.send();}catch(e){}}
+var revisionJS='v1566';var fetchCat=function(url){var keyCat='fetchCat';var keyCatRev='fetchCatRev';var keyMenu='fetchMenu';var keyCatFull='fetchCatFull';var isLocalStorage=window.supportLS;var cacheCat=null;var cacheCatFull=null;var cacheMenu=null;if(isLocalStorage){if(localStorage.getItem(keyCatRev)==revisionJS){cacheCat=localStorage.getItem(keyCat);cacheMenu=localStorage.getItem(keyMenu);cacheCatFull=localStorage.getItem(keyCatFull);}}if(cacheCat===null||cacheMenu===null){var url=js_url_vne+'/v3/pc/config/category.js';if(typeof ES6==='undefined'||ES6!==1){url=js_url_vne+'/v3/production/config/category.js';}addScripts(url,true,function(){localStorage.setItem(keyCat,JSON.stringify(window.categoryCustom));localStorage.setItem(keyMenu,JSON.stringify(window.menuCustom))
+localStorage.setItem(keyCatRev,revisionJS);});}else{try{window.categoryCustom=JSON.parse(cacheCat);window.menuCustom=JSON.parse(cacheMenu)}catch(e){console.log(e);}}if(cacheCatFull===null&&isLocalStorage){var xhr=new XMLHttpRequest;var url='/microservice/fc';xhr.open("GET",url,true);xhr.onreadystatechange=function(){if(xhr.readyState===4&&xhr.status===200){try{localStorage.setItem(keyCatFull,xhr.responseText);localStorage.setItem(keyCatRev,revisionJS);}catch(e){console.log(e);}}};xhr.send()}};if(isBot===false){if(window.supportLS){loadFontsFromStorage();}else{loadFontsAsynchronously();}fetchSVG();}fetchCat();</script> <script type="text/javascript">var list_box_gt={"phimdecu":{"code":200,"data":[{"title":"Nh\u00e0 tr\u1ecd Balanha","share_url":"\/nha-tro-balanha-tieng-cuoi-tu-su-khon-kho-4076174.html","thumbnail_url":"https:\/\/i-giaitri.vnecdn.net\/2020\/04\/02\/nha-tro-balanha-1585829180-2009-1585829236.jpg","thumb_list":{"thumb_300_180_100_1_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/04\/02\/nha-tro-balanha-1585829180-2009-1585829236.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=QmQy3LaS-ZdvKJ-ZY3IPYQ","thumb_300_180_100_2_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/04\/02\/nha-tro-balanha-1585829180-2009-1585829236.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=HRCG3dc3W3K-0V9xxrLsXw"}},{"title":"Th\u1ebf gi\u1edbi h\u00f4n nh\u00e2n","share_url":"\/ly-do-phim-19-the-gioi-hon-nhan-gay-sot-4095614.html","thumbnail_url":"https:\/\/i-giaitri.vnecdn.net\/2020\/05\/13\/The-gioi-hon-nhan-1589354805.jpg","thumb_list":{"thumb_300_180_100_1_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/The-gioi-hon-nhan-1589354805.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=E6uztpUxajUiuOzuyzP6aw","thumb_300_180_100_2_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/The-gioi-hon-nhan-1589354805.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=TAwzQSOWZ4c4o3fk31n8TQ"}},{"title":"Ho\u1ea1t \u0111\u1ed9ng ngo\u1ea1i kh\u00f3a","share_url":"\/extracurricular-series-ve-the-gioi-mai-dam-4095160.html","thumbnail_url":"https:\/\/i-giaitri.vnecdn.net\/2020\/05\/13\/Hoat-dong-ngoai-khoa-Extracurricular-1589354804.jpg","thumb_list":{"thumb_300_180_100_1_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Hoat-dong-ngoai-khoa-Extracurricular-1589354804.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=MD6uH0P4vcDyrg_w6coJpw","thumb_300_180_100_2_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Hoat-dong-ngoai-khoa-Extracurricular-1589354804.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=S53yEn5w9mcoodezosh36w"}},{"title":"Into the Night","share_url":"javascript:;","thumbnail_url":"https:\/\/i-giaitri.vnecdn.net\/2020\/05\/13\/Into-The-Night-1589354805.jpg","thumb_list":{"thumb_300_180_100_1_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Into-The-Night-1589354805.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=y5iMOlqu5tQWVE2dnC9PNQ","thumb_300_180_100_2_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Into-The-Night-1589354805.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=i-P0hnaBdRUAqcbpViYiRA"}},{"title":"Nh\u1eefng ng\u00e0y kh\u00f4ng qu\u00ean","share_url":"\/nhung-ngay-khong-quen-tieng-cuoi-thoi-dich-4086344.html","thumbnail_url":"https:\/\/i-giaitri.vnecdn.net\/2020\/05\/13\/Nhung-ngay-khong-quen-1589354805.jpg","thumb_list":{"thumb_300_180_100_1_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Nhung-ngay-khong-quen-1589354805.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=3qj-OEii6SO4tkpFLRuIuA","thumb_300_180_100_2_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Nhung-ngay-khong-quen-1589354805.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=nZmGElMr4W92etFMvrqDwg"}},{"title":"Bad Education","share_url":"\/loat-phim-truc-tuyen-noi-bat-thang-4-4078260.html","thumbnail_url":"https:\/\/i-giaitri.vnecdn.net\/2020\/05\/13\/Bad-Education-1589354804.jpg","thumb_list":{"thumb_300_180_100_1_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Bad-Education-1589354804.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=eMVOsD8BzhCzMqQdFbF7XA","thumb_300_180_100_2_crop":"https:\/\/i1-giaitri.vnecdn.net\/2020\/05\/13\/Bad-Education-1589354804.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=Chqqf7p_osnju2eBeBsFdw"}}]},"hottopic":{"ids":"13328,24605,22465,23636"}}</script>
+<!-- VIDEO VOD SCRIPT -->
+<script src="https://s1.vnecdn.net/vnexpress/restruct/j/v1566/v3/production/vod.js" async=""></script>
+<!-- END VIDEO VOD SCRIPT -->
+</head>
+<body class="" data-source="Home">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3FNJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	<div id="_ads_bg_top" class="lazier"></div>
+<section id="supper_masthead" class="section section-ads-top banner-ads banner-top-home"></section> <div id="_top" class="lazier"></div>
+<!-- end taskbar -->
+<header class="section top-header" data-campaign="Header">
+<div class="container ">
+<a href="javascript:;" class="all-menu all-menu-tablet"><span class="hamburger"></span></a>
+<h1> <a href="/" data-medium="Logo" class="logo" title="VnExpress - Báo tiếng Việt nhiều người xem nhất" onclick="trackingLogoHome('logo-header', this.href)">
+<img src="https://s1.vnecdn.net/vnexpress/restruct/i/v382/v2_2019/pc/graphics/logo.svg" alt="VnExpress - Bao tieng Viet nhieu nguoi xem nhat">
+</a>
+</h1>	<span class="time-now">Thứ sáu, 16/4/2021</span>
+<div class="right">
+<h2>	<a href="/tin-tuc-24h" class="btn24hqua " title="Mới nhất"><svg class="ic ic-24h"><use xlink:href="#time"></use></svg>Mới nhất</a>
+</h2>	<a href="https://e.vnexpress.net/" class="evne" title="VnExpress International"><svg class="ic ic-evne"><use xlink:href="#letter-E"></use></svg>International</a>
+<form class="search search-vne" action="https://timkiem.vnexpress.net" id="formSearchHeader">
+<input id="keywordHeader" type="text" name="q" placeholder="Tìm kiếm" autocomplete="off">
+<button type="submit" title="Tìm kiếm" class="btn-search-vne" id="buttonSearchHeader"><svg class="ic ic-search"><use xlink:href="#Search"></use></svg></button>
+</form>
+<div id="myvne_taskbar"></div>
+</div>
+</div>
+</header> <!--end header-->
+<!--main_menu menu PC-->
+<section class="section wrap-main-nav" id="wrap-main-nav" data-campaign="Header">
+<nav class="main-nav">
+<ul class="parent">
+<li class="home">
+<a href="/" class="flexbox" title="Trang chủ" data-medium="Menu-Home" onclick="trackingLogoHome('logo-header-menu', this.href)">
+<svg class="ic ic-home"><use xlink:href="#Home"></use></svg>
+<svg class="ic ic-evne"><use xlink:href="#letter-E"></use></svg>
+</a>
+</li>
+<li class="newlest"><a data-medium="Menu-MoiNhat" href="/tin-tuc-24h" title="Mới nhất">Mới nhất</a></li>
+<li class="thoisu" data-id="1001005">
+<a title="Thời sự" href="/thoi-su" data-medium="Menu-ThoiSu">
+Thời sự </a>
+</li>
+<li class="gocnhin" data-id="1003450">
+<a title="Góc nhìn" href="/goc-nhin" data-medium="Menu-GocNhin">
+Góc nhìn </a>
+</li>
+<li class="thegioi" data-id="1001002">
+<a title="Thế giới" href="/the-gioi" data-medium="Menu-TheGioi">
+Thế giới </a>
+</li>
+<li class="video" data-id="1003834">
+<a title="Video" href="https://video.vnexpress.net" data-medium="Menu-Video">
+Video </a>
+</li>
+<li class="kinhdoanh" data-id="1003159">
+<a title="Kinh doanh" href="/kinh-doanh" data-medium="Menu-KinhDoanh">
+Kinh doanh </a>
+</li>
+<li class="giaitri" data-id="1002691">
+<a title="Giải trí" href="/giai-tri" data-medium="Menu-GiaiTri">
+Giải trí </a>
+</li>
+<li class="thethao" data-id="1002565">
+<a title="Thể thao" href="/the-thao" data-medium="Menu-TheThao">
+Thể thao </a>
+</li>
+<li class="phapluat" data-id="1001007">
+<a title="Pháp luật" href="/phap-luat" data-medium="Menu-PhapLuat">
+Pháp luật </a>
+</li>
+<li class="giaoduc" data-id="1003497">
+<a title="Giáo dục" href="/giao-duc" data-medium="Menu-GiaoDuc">
+Giáo dục </a>
+</li>
+<li class="suckhoe" data-id="1003750">
+<a title="Sức khỏe" href="/suc-khoe" data-medium="Menu-SucKhoe">
+Sức khỏe </a>
+</li>
+<li class="doisong" data-id="1002966">
+<a title="Đời sống" href="/doi-song" data-medium="Menu-DoiSong">
+Đời sống </a>
+</li>
+<li class="dulich" data-id="1003231">
+<a title="Du lịch" href="/du-lich" data-medium="Menu-DuLich">
+Du lịch </a>
+</li>
+<li class="khoahoc" data-id="1001009">
+<a title="Khoa học" href="/khoa-hoc" data-medium="Menu-KhoaHoc">
+Khoa học </a>
+</li>
+<li class="sohoa" data-id="1002592">
+<a title="Số hóa" href="/so-hoa" data-medium="Menu-SoHoa">
+Số hóa </a>
+</li>
+<li class="xe" data-id="1001006">
+<a title="Xe" href="/oto-xe-may" data-medium="Menu-Xe">
+Xe </a>
+</li>
+<li class="ykien" data-id="1001012">
+<a title="Ý kiến" href="/y-kien" data-medium="Menu-YKien">
+Ý kiến </a>
+</li>
+<li class="tamsu" data-id="1001014">
+<a title="Tâm sự" href="/tam-su" data-medium="Menu-TamSu">
+Tâm sự </a>
+</li>
+<li class="cuoi" data-id="1001011">
+<a title="Hài" href="/hai" data-medium="Menu-Hai">
+Hài </a>
+</li>
+<li class="all-menu has_transition"><a href="javascript:;">Tất cả <span class="hamburger"></span></a></li>
+</ul>
+</nav>
+<section class="wrap-all-menu"></section>
+</section>
+<!--End main_menu-->
+<section class="section center" id="sync_bgu_and_masthead" style="display:none">
+<div id='sis_bgu'><script>try{googTagCode.display.push('sis_bgu');}catch(e){}</script></div>
+</section>
+<!-- CONTENT  -->
+<style>a.related{position:relative;padding-left:15px}a.related:before{content:'';width:5px;height:5px;background:#999;position:absolute;left:0;top:5px}</style>
+<section class="section section_topstory" data-vote='["<div id=\"vote-32033\" data-component=\"true\" data-component-type=\"vote\" data-component-value=\"32033\" data-component-siteid=\"1000000\"><\/div>\r\n\t\t\t\r\n\t\t\r\n&nbsp;"]'>
+<div class="container flexbox">
+<div class="col-left-top">
+<div class="wrapper-topstory-folder wrapper-topstory-folder-v2 wrapper-topstory-home flexbox width_common" data-campaign="ThuongVien">
+<article class="item-news full-thumb article-topstory">
+<div class="thumb-art">
+<a href="https://vnexpress.net/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html" class="thumb thumb-5x3" title="Bộ trưởng Y tế: Nguy cơ Covid-19 xâm nhập qua biên giới rất lớn" data-medium="Item-1" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://i1-suckhoe.vnecdn.net/2021/04/16/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=t2_CifdGVju6IMISZxokVw 1x, https://i1-suckhoe.vnecdn.net/2021/04/16/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=680&h=408&q=100&dpr=2&fit=crop&s=K4CvyyHrF7gBJNFrCDJTlQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="680x408" alt="Bộ trưởng Y tế: Nguy cơ Covid-19 xâm nhập qua biên giới rất lớn" class="lazy" src="https://i1-suckhoe.vnecdn.net/2021/04/16/z243750615585747331cca654c0ed0-9861-7835-1618544226.jpg?w=680&h=408&q=100&dpr=1&fit=crop&s=t2_CifdGVju6IMISZxokVw">
+</source></picture> </a>
+</div>
+<h3 class="title-news"><a href="https://vnexpress.net/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html" title="Bộ trưởng Y tế: Nguy cơ Covid-19 xâm nhập qua biên giới rất lớn" data-medium="Item-1" data-thumb="1"> Bộ trưởng Y tế: Nguy cơ Covid-19 xâm nhập qua biên giới rất lớn</a>
+</h3>
+<p class="description"><a href="https://vnexpress.net/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html" title="Bộ trưởng Y tế: Nguy cơ Covid-19 xâm nhập qua biên giới rất lớn" data-medium="Item-1" data-thumb="1">Bộ trưởng Y tế Nguyễn Thanh Long cảnh báo nguy cơ Covid-19 tái bùng phát tại Việt Nam là rất lớn trong bối cảnh dịch bùng phát mạnh tại các nước láng giềng và thế giới.</a></p>
+<p class="extend-lead description mt5 hidden"><a href="https://vnexpress.net/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html" title="Bộ trưởng Y tế: Nguy cơ Covid-19 xâm nhập qua biên giới rất lớn" data-medium="Item-1" data-thumb="1">Bộ trưởng Long nhấn mạnh nguy cơ này tại hội nghị trực tuyến tăng cường công tác phòng chống Covid-19 với 63 tỉnh, thành, sáng 16/4. Ông yêu cầu phải kiểm soát chặt đường biên và người nhập cảnh, do dịch ở nước ngoài vẫn đang diễn biến phức tạp trong khi nước ta vẫn thường xuyên tổ chức các chuyến bay gi</a></p>
+<p class="meta-news">
+<span class="time-public"></span>
+<span campaign="ThuongVien" class="cate_top_1003750"></span>
+<a class="count_cmt" href="https://vnexpress.net/bo-truong-y-te-nguy-co-covid-19-xam-nhap-qua-bien-gioi-rat-lon-4263813.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263813"></span>
+</a>
+</p>
+</article>
+<div class="sub-news-top">
+<div class="inner-sub-news-top">
+<div class="scroll-sub-featured">
+<ul class="list-sub-feature">
+<li>
+<h3 class="title_news">
+<a data-medium="Item-2" data-thumb="0" href="https://vnexpress.net/tp-hcm-kien-nghi-thu-hoi-3-khu-dat-quoc-phong-de-lam-duong-4263831.html" title="TP HCM kiến nghị thu hồi 3 khu đất quốc phòng để làm đường">
+TP HCM kiến nghị thu hồi 3 khu đất quốc phòng để làm đường </a>
+</h3>
+<p class="description">
+<a data-medium="Item-2" data-thumb="0" href="https://vnexpress.net/tp-hcm-kien-nghi-thu-hoi-3-khu-dat-quoc-phong-de-lam-duong-4263831.html" title="TP HCM kiến nghị thu hồi 3 khu đất quốc phòng để làm đường">Chính quyền TP HCM kiến nghị Bộ Quốc phòng chuyển giao khoảng 8.800 m2 đất để thực hiện 3 dự án giao thông nhằm giảm ùn tắc ở quận Gò Vấp.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/tp-hcm-kien-nghi-thu-hoi-3-khu-dat-quoc-phong-de-lam-duong-4263831.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263831"></span>
+</a>
+</span>
+</p>
+</li>
+<li>
+<h3 class="title_news">
+<a data-medium="Item-3" data-thumb="0" href="https://vnexpress.net/cay-do-nha-ngap-sau-mua-lon-o-sai-gon-4263709.html" title="Cây đổ, nhà ngập sau mưa lớn ở Sài Gòn">
+<svg class="ic ic-in-title ic-camera"><use xlink:href="#Camera"></use></svg>Cây đổ, nhà ngập sau mưa lớn ở Sài Gòn </a>
+</h3>
+<p class="description">
+<a data-medium="Item-3" data-thumb="0" href="https://vnexpress.net/cay-do-nha-ngap-sau-mua-lon-o-sai-gon-4263709.html" title="Cây đổ, nhà ngập sau mưa lớn ở Sài Gòn">Cơn mưa lớn hơn một giờ kèm giông lốc ở TP HCM khiến nhiều cây đổ, đường ngập, nước tràn vào nhà dân.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/cay-do-nha-ngap-sau-mua-lon-o-sai-gon-4263709.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="3" data-objectid="4263709"></span>
+</a>
+</span>
+</p>
+</li>
+<!--box góc nhìn-->
+<li class="item-gocnhin">
+<article class="item-news art-top-gn">
+<h3 class="title-news"><a href="https://vnexpress.net/chot-don-tren-canh-dong-4263597.html" data-medium="Item-1" data-thumb="1" title="‘Chốt đơn’ trên cánh đồng">‘Chốt đơn’ trên cánh đồng</a></h3>
+<p class="description"><a data-medium="Item-1" data-thumb="1" href="https://vnexpress.net/chot-don-tren-canh-dong-4263597.html" title="‘Chốt đơn’ trên cánh đồng">Mỗi khi mua hàng ở miền Tây, tôi nhớ nhất hai từ "thồi tiền" của các chị, các dì.</a></p>
+<div class="width_common info-author flexbox">
+<p class="meta-news">
+<a href="https://vnexpress.net/tac-gia/tran-ban-hung-1057.html" class="cat" title="Trần Ban Hùng">Trần Ban Hùng</a>
+<a class="count_cmt" href="https://vnexpress.net/chot-don-tren-canh-dong-4263597.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263597"></span>
+</a>
+</p>
+<div class="thumb-art thumb-author-gn">
+<a href="https://vnexpress.net/tac-gia/tran-ban-hung-1057.html" class="thumb thumb-1x1" title="Trần Ban Hùng">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://i1-vnexpress.vnecdn.net/2017/12/13/tranbanhungpng-1513100610.png?w=100&h=100&q=100&dpr=1&fit=crop&s=5ryKdVMjeXDpO1oXqQDigg 1x, https://i1-vnexpress.vnecdn.net/2017/12/13/tranbanhungpng-1513100610.png?w=100&h=100&q=100&dpr=2&fit=crop&s=lBPqJ4gKzCSdVqr-S5Bx1g 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="100x100" alt="" class="lazy" src="https://i1-vnexpress.vnecdn.net/2017/12/13/tranbanhungpng-1513100610.png?w=100&h=100&q=100&dpr=1&fit=crop&s=5ryKdVMjeXDpO1oXqQDigg">
+</source></picture>	</a>
+</div>
+</div>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="col-right-top">
+<div class="box-category">
+<div class="banner-ads" style="clear: both;display: flex;justify-content: center;">
+<div id="_large_1" class="lazier"></div>
+</div>
+</div>
+</aside>
+</div>
+</section>
+<section class="section section_stream_home section_container">
+<div class="container has_border flexbox">
+<div class="col-left col-small" data-campaign="ThuongVien" id="automation_TV0">
+<article class="item-news item-news-common " data-id="4263861">
+<h3 class="title-news">
+<a href="https://vnexpress.net/covid-19-chan-da-phuc-hoi-cua-thi-truong-lao-dong-4263861.html" title="Covid-19 'chặn' đà phục hồi của thị trường lao động" data-medium="Item-4" data-thumb="1">Covid-19 'chặn' đà phục hồi của thị trường lao động</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/covid-19-chan-da-phuc-hoi-cua-thi-truong-lao-dong-4263861.html" class="thumb thumb-5x3" title="Covid-19 'chặn' đà phục hồi của thị trường lao động" data-medium="Item-4" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/laodong-1618546890-8270-1618546906.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O8-fIWxL4app4VTcYYUmww 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/laodong-1618546890-8270-1618546906.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=VvDhEjGDl2VMnKJjNXMMVA 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Covid-19 'chặn' đà phục hồi của thị trường lao động" class="lazy" src="https://i1-vnexpress.vnecdn.net/2021/04/16/laodong-1618546890-8270-1618546906.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=O8-fIWxL4app4VTcYYUmww">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/covid-19-chan-da-phuc-hoi-cua-thi-truong-lao-dong-4263861.html" title="Covid-19 'chặn' đà phục hồi của thị trường lao động" data-medium="Item-4" data-thumb="1">Làn sóng dịch thứ ba bùng phát giáp Tết Tân Sửu khiến đà khôi phục việc làm và thu nhập của người lao động chững lại, theo công bố của Tổng cục Thống kê.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/covid-19-chan-da-phuc-hoi-cua-thi-truong-lao-dong-4263861.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263861"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263888">
+<h3 class="title-news">
+<a href="https://vnexpress.net/28-hoc-sinh-di-cap-cuu-sau-khi-choi-dat-nan-slam-4263888.html" title="28 học sinh đi cấp cứu sau khi chơi đất nặn slam" data-medium="Item-5" data-thumb="0">28 học sinh đi cấp cứu sau khi chơi đất nặn slam</a>
+</h3>
+<p class="description">
+<a href="https://vnexpress.net/28-hoc-sinh-di-cap-cuu-sau-khi-choi-dat-nan-slam-4263888.html" title="28 học sinh đi cấp cứu sau khi chơi đất nặn slam" data-medium="Item-5" data-thumb="0"><span class="location-stamp">Đà Nẵng</span>Nhóm học sinh trường Tiểu học Hoà Khương mua đất nặn slam trước cổng trường chơi, hít phải khí lạ nên bị khó thở, nôn ói.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/28-hoc-sinh-di-cap-cuu-sau-khi-choi-dat-nan-slam-4263888.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263888"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263640">
+<h3 class="title-news">
+<a href="https://vnexpress.net/nga-re-ai-cua-chang-thu-khoa-kep-nganh-toan-4263640.html" title="Ngã rẽ AI của chàng thủ khoa 'kép' ngành Toán" data-medium="Item-6" data-thumb="1">Ngã rẽ AI của chàng thủ khoa 'kép' ngành Toán</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/nga-re-ai-cua-chang-thu-khoa-kep-nganh-toan-4263640.html" class="thumb thumb-5x3" title="Ngã rẽ AI của chàng thủ khoa 'kép' ngành Toán" data-medium="Item-6" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/thu-khoa-tu-nhien-5155-1618509-1629-9080-1618548689.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=4NLAm3OdumFdDhfWGQLeWQ 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/thu-khoa-tu-nhien-5155-1618509-1629-9080-1618548689.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=Rt_rB8Y6pdkmh-9XaS0V_A 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Ngã rẽ AI của chàng thủ khoa 'kép' ngành Toán" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/thu-khoa-tu-nhien-5155-1618509-1629-9080-1618548689.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=4NLAm3OdumFdDhfWGQLeWQ">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/nga-re-ai-cua-chang-thu-khoa-kep-nganh-toan-4263640.html" title="Ngã rẽ AI của chàng thủ khoa 'kép' ngành Toán" data-medium="Item-6" data-thumb="1">Nguyễn Minh Huy chỉ mất ba năm để tốt nghiệp ngành Toán trường Đại học Khoa học Tự nhiên với điểm tổng kết 9,75 rồi chuyển hướng nghiên cứu chuyên sâu về AI.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/nga-re-ai-cua-chang-thu-khoa-kep-nganh-toan-4263640.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263640"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4261733">
+<h3 class="title-news">
+<a href="https://vnexpress.net/vin-diesel-y-tuong-oto-bay-vao-vu-tru-that-dien-ro-4261733.html" title="Vin Diesel: 'Ý tưởng ôtô bay vào vũ trụ thật điên rồ'" data-medium="Item-7" data-thumb="1">Vin Diesel: 'Ý tưởng ôtô bay vào vũ trụ thật điên rồ'</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/vin-diesel-y-tuong-oto-bay-vao-vu-tru-that-dien-ro-4261733.html" class="thumb thumb-5x3" title="Vin Diesel: 'Ý tưởng ôtô bay vào vũ trụ thật điên rồ'" data-medium="Item-7" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-giaitri.vnecdn.net/2021/04/15/VinDieselFastandFurious9-16184-5111-8439-1618478312.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=3VAzyLCmpUOlnnaWAF3npw 1x, https://i1-giaitri.vnecdn.net/2021/04/15/VinDieselFastandFurious9-16184-5111-8439-1618478312.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=A-Eetk-8AhEUk1GNWwxVsQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Vin Diesel: 'Ý tưởng ôtô bay vào vũ trụ thật điên rồ'" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-giaitri.vnecdn.net/2021/04/15/VinDieselFastandFurious9-16184-5111-8439-1618478312.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=3VAzyLCmpUOlnnaWAF3npw">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/vin-diesel-y-tuong-oto-bay-vao-vu-tru-that-dien-ro-4261733.html" title="Vin Diesel: 'Ý tưởng ôtô bay vào vũ trụ thật điên rồ'" data-medium="Item-7" data-thumb="1">Tài tử Vin Diesel há hốc khi Justin Lin - đạo diễn "Fast &amp; Furious 9" - nói ý tưởng cho nhân vật dùng ôtô bay vào vũ trụ.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/vin-diesel-y-tuong-oto-bay-vao-vu-tru-that-dien-ro-4261733.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4261733"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263798">
+<h3 class="title-news">
+<a href="https://vnexpress.net/australia-canh-bao-tham-hoa-neu-trung-quoc-tan-cong-dai-loan-4263798.html" title="Australia cảnh báo thảm họa nếu Trung Quốc tấn công Đài Loan" data-medium="Item-8" data-thumb="1">Australia cảnh báo thảm họa nếu Trung Quốc tấn công Đài Loan</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/australia-canh-bao-tham-hoa-neu-trung-quoc-tan-cong-dai-loan-4263798.html" class="thumb thumb-5x3" title="Australia cảnh báo thảm họa nếu Trung Quốc tấn công Đài Loan" data-medium="Item-8" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/anguscampbell-1618545159-2362-1618545294.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YlZVReEXwXGD2oXgbidSHg 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/anguscampbell-1618545159-2362-1618545294.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=mFFmUM8A642mv-wsWAj28Q 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Australia cảnh báo thảm họa nếu Trung Quốc tấn công Đài Loan" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/anguscampbell-1618545159-2362-1618545294.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=YlZVReEXwXGD2oXgbidSHg">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/australia-canh-bao-tham-hoa-neu-trung-quoc-tan-cong-dai-loan-4263798.html" title="Australia cảnh báo thảm họa nếu Trung Quốc tấn công Đài Loan" data-medium="Item-8" data-thumb="1">Tư lệnh quân đội Australia nói xung đột giữa Bắc Kinh và Đài Bắc sẽ là thảm họa với khu vực, kêu gọi các bên hợp tác ngăn xung đột.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/australia-canh-bao-tham-hoa-neu-trung-quoc-tan-cong-dai-loan-4263798.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263798"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263395">
+<h3 class="title-news">
+<a data-zone="585" href="https://vnexpress.net/11-bai-thi-an-tuong-vong-online-mien-bac-dance-for-youth-4263395.html" title="11 bài thi ấn tượng vòng Online miền Bắc 'Dance For Youth'" data-medium="Item-9" data-thumb="1">11 bài thi ấn tượng vòng Online miền Bắc 'Dance For Youth'</a>
+</h3>
+<div class="thumb-art">
+<a data-zone="585" href="https://vnexpress.net/11-bai-thi-an-tuong-vong-online-mien-bac-dance-for-youth-4263395.html" class="thumb thumb-5x3" title="11 bài thi ấn tượng vòng Online miền Bắc 'Dance For Youth'" data-medium="Item-9" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-giaitri.vnecdn.net/2021/04/15/tada-1618485026-1618485044-6912-1618485164.png?w=220&h=132&q=100&dpr=1&fit=crop&s=RAB1DTz2Q8RAe7iDwv9LPw 1x, https://i1-giaitri.vnecdn.net/2021/04/15/tada-1618485026-1618485044-6912-1618485164.png?w=220&h=132&q=100&dpr=2&fit=crop&s=JlhQoxs8KoatEX574SvYfA 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="11 bài thi ấn tượng vòng Online miền Bắc 'Dance For Youth'" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-giaitri.vnecdn.net/2021/04/15/tada-1618485026-1618485044-6912-1618485164.png?w=220&h=132&q=100&dpr=1&fit=crop&s=RAB1DTz2Q8RAe7iDwv9LPw">
+</source></picture> <span class="icon_thumb_videophoto"><svg class="ic ic-interactive"><use xlink:href="#Interactive"></use></svg></span> </a>
+</div>
+<p class="description">
+<a data-zone="585" href="https://vnexpress.net/11-bai-thi-an-tuong-vong-online-mien-bac-dance-for-youth-4263395.html" title="11 bài thi ấn tượng vòng Online miền Bắc 'Dance For Youth'" data-medium="Item-9" data-thumb="1">Các nhóm nhảy từ ĐH Y Hà Nội, ĐH Phương Đông, Đại học Thăng Long... có bài dự thi chỉn chu, đầu tư trang phục và kỹ thuật nhảy tốt.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/11-bai-thi-an-tuong-vong-online-mien-bac-dance-for-youth-4263395.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="7" data-objectid="4263395"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263748">
+<h3 class="title-news">
+<a href="https://vnexpress.net/tong-thong-my-de-cu-tan-dai-su-tai-viet-nam-4263748.html" title="Tổng thống Mỹ đề cử tân đại sứ tại Việt Nam" data-medium="Item-10" data-thumb="1">Tổng thống Mỹ đề cử tân đại sứ tại Việt Nam</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/tong-thong-my-de-cu-tan-dai-su-tai-viet-nam-4263748.html" class="thumb thumb-5x3" title="Tổng thống Mỹ đề cử tân đại sứ tại Việt Nam" data-medium="Item-10" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/daisu-1618542051-5660-1618542491.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=nqM4ApPyKPxFkcknyeK1Zg 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/daisu-1618542051-5660-1618542491.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=6qQOFL1dhWroPnJoywL1Yg 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Tổng thống Mỹ đề cử tân đại sứ tại Việt Nam" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/daisu-1618542051-5660-1618542491.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=nqM4ApPyKPxFkcknyeK1Zg">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/tong-thong-my-de-cu-tan-dai-su-tai-viet-nam-4263748.html" title="Tổng thống Mỹ đề cử tân đại sứ tại Việt Nam" data-medium="Item-10" data-thumb="1">Tổng thống Mỹ Joe Biden đề cử ông Marc Evans Knapper, một nhà ngoại giao nhiều kinh nghiệm và nói được tiếng Việt, làm tân đại sứ tại Việt Nam.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/tong-thong-my-de-cu-tan-dai-su-tai-viet-nam-4263748.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263748"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263754">
+<h3 class="title-news">
+<a href="https://vnexpress.net/17-uy-vien-bo-chinh-tri-ung-cu-quoc-hoi-khoa-moi-4263754.html" title="17 Ủy viên Bộ Chính trị ứng cử Quốc hội khóa mới" data-medium="Item-11" data-thumb="1">17 Ủy viên Bộ Chính trị ứng cử Quốc hội khóa mới</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/17-uy-vien-bo-chinh-tri-ung-cu-quoc-hoi-khoa-moi-4263754.html" class="thumb thumb-5x3" title="17 Ủy viên Bộ Chính trị ứng cử Quốc hội khóa mới" data-medium="Item-11" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/HUY1378-1618542501-1677-1618543224.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=k-okaWeaaJm2FRZLAvdMRQ 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/HUY1378-1618542501-1677-1618543224.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=-yQE5Y4kZe8rCjxF2FsyYQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="17 Ủy viên Bộ Chính trị ứng cử Quốc hội khóa mới" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/HUY1378-1618542501-1677-1618543224.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=k-okaWeaaJm2FRZLAvdMRQ">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/17-uy-vien-bo-chinh-tri-ung-cu-quoc-hoi-khoa-moi-4263754.html" title="17 Ủy viên Bộ Chính trị ứng cử Quốc hội khóa mới" data-medium="Item-11" data-thumb="1">Trong số những người được các cơ quan Trung ương và địa phương giới thiệu ứng cử đại biểu Quốc hội khóa XV, có 17 Ủy viên Bộ Chính trị.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/17-uy-vien-bo-chinh-tri-ung-cu-quoc-hoi-khoa-moi-4263754.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263754"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263793">
+<h3 class="title-news">
+<a href="https://vnexpress.net/ngu-dan-trung-me-ca-600-trieu-dong-4263793.html" title="Ngư dân trúng mẻ cá 600 triệu đồng" data-medium="Item-12" data-thumb="1">Ngư dân trúng mẻ cá 600 triệu đồng</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/ngu-dan-trung-me-ca-600-trieu-dong-4263793.html" class="thumb thumb-5x3" title="Ngư dân trúng mẻ cá 600 triệu đồng" data-medium="Item-12" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/cachimvang-1618546054-1193-1618547145.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=w7ubXBCrwupvHMb7h36kvw 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/cachimvang-1618546054-1193-1618547145.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=4bYAopJXQGDQQApti5ImbA 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Ngư dân trúng mẻ cá 600 triệu đồng" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/cachimvang-1618546054-1193-1618547145.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=w7ubXBCrwupvHMb7h36kvw">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/ngu-dan-trung-me-ca-600-trieu-dong-4263793.html" title="Ngư dân trúng mẻ cá 600 triệu đồng" data-medium="Item-12" data-thumb="1"><span class="location-stamp">Hà Tĩnh</span>Ông Lê Xuân Tiến cùng 9 người ở huyện Cẩm Xuyên bủa lưới bắt được mẻ cá chim vàng hơn 2 tấn sau 10 tiếng ra khơi, bán 300.000 đồng một kg.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/ngu-dan-trung-me-ca-600-trieu-dong-4263793.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263793"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263641">
+<h3 class="title-news">
+<a href="https://vnexpress.net/ha-noi-quy-hoach-them-5-nha-may-nuoc-mat-4263641.html" title="Hà Nội quy hoạch thêm 5 nhà máy nước mặt" data-medium="Item-13" data-thumb="1">Hà Nội quy hoạch thêm 5 nhà máy nước mặt</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/ha-noi-quy-hoach-them-5-nha-may-nuoc-mat-4263641.html" class="thumb thumb-5x3" title="Hà Nội quy hoạch thêm 5 nhà máy nước mặt" data-medium="Item-13" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/n1-1618513905-1648-1618514045.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7iOE06AopD_DFULxAS-L9w 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/n1-1618513905-1648-1618514045.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=aXulR9mbao6KJQad1EEtPQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Hà Nội quy hoạch thêm 5 nhà máy nước mặt" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/n1-1618513905-1648-1618514045.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=7iOE06AopD_DFULxAS-L9w">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/ha-noi-quy-hoach-them-5-nha-may-nuoc-mat-4263641.html" title="Hà Nội quy hoạch thêm 5 nhà máy nước mặt" data-medium="Item-13" data-thumb="1">Ngoài 3 nhà máy nước mặt theo quy hoạch cũ, Hà Nội sẽ có thêm nguồn nước mặt từ 5 nhà máy mới, đáp ứng mục tiêu 100% người dân được dùng nước sạch.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/ha-noi-quy-hoach-them-5-nha-may-nuoc-mat-4263641.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263641"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263696">
+<h3 class="title-news">
+<a href="https://vnexpress.net/5-800-nguoi-my-mac-covid-19-sau-tiem-du-hai-lieu-vaccine-4263696.html" title="5.800 người Mỹ mắc Covid-19 sau tiêm đủ hai liều vaccine" data-medium="Item-14" data-thumb="1">5.800 người Mỹ mắc Covid-19 sau tiêm đủ hai liều vaccine</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/5-800-nguoi-my-mac-covid-19-sau-tiem-du-hai-lieu-vaccine-4263696.html" class="thumb thumb-5x3" title="5.800 người Mỹ mắc Covid-19 sau tiêm đủ hai liều vaccine" data-medium="Item-14" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-suckhoe.vnecdn.net/2021/04/16/wireap-4b96b1783fdb4e5c9e2c33f-3201-9419-1618535757.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=qSwBbR1eO-ish8Y8pUkM9w 1x, https://i1-suckhoe.vnecdn.net/2021/04/16/wireap-4b96b1783fdb4e5c9e2c33f-3201-9419-1618535757.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=atpn4yQnexMMQmzdsjBTIQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="5.800 người Mỹ mắc Covid-19 sau tiêm đủ hai liều vaccine" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-suckhoe.vnecdn.net/2021/04/16/wireap-4b96b1783fdb4e5c9e2c33f-3201-9419-1618535757.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=qSwBbR1eO-ish8Y8pUkM9w">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/5-800-nguoi-my-mac-covid-19-sau-tiem-du-hai-lieu-vaccine-4263696.html" title="5.800 người Mỹ mắc Covid-19 sau tiêm đủ hai liều vaccine" data-medium="Item-14" data-thumb="1">Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ (CDC) hôm 15/4 ghi nhận 5.800 người bị nhiễm nCoV dù đã tiêm phòng đầy đủ.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/5-800-nguoi-my-mac-covid-19-sau-tiem-du-hai-lieu-vaccine-4263696.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263696"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263286">
+<h3 class="title-news">
+<a href="https://vnexpress.net/vdv-cheo-van-dung-ly-bich-ngoc-toi-nhu-con-gai-vua-thuy-te-4263286.html" title="VĐV chèo ván đứng Lý Bích Ngọc: 'Tôi như con gái vua Thủy tề'" data-medium="Item-15" data-thumb="1">VĐV chèo ván đứng Lý Bích Ngọc: 'Tôi như con gái vua Thủy tề'</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/vdv-cheo-van-dung-ly-bich-ngoc-toi-nhu-con-gai-vua-thuy-te-4263286.html" class="thumb thumb-5x3" title="VĐV chèo ván đứng Lý Bích Ngọc: 'Tôi như con gái vua Thủy tề'" data-medium="Item-15" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-thethao.vnecdn.net/2021/04/15/126948232355419738130547979659-9195-7793-1618477625.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=VoYzZcDlgTymMEpxyN3vyQ 1x, https://i1-thethao.vnecdn.net/2021/04/15/126948232355419738130547979659-9195-7793-1618477625.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=NFEz-Y1ugLCA2-PYXzwi0Q 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="VĐV chèo ván đứng Lý Bích Ngọc: 'Tôi như con gái vua Thủy tề'" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-thethao.vnecdn.net/2021/04/15/126948232355419738130547979659-9195-7793-1618477625.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=VoYzZcDlgTymMEpxyN3vyQ">
+</source></picture> <span class="icon_thumb_videophoto"><svg class="ic ic-interactive"><use xlink:href="#Interactive"></use></svg></span> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/vdv-cheo-van-dung-ly-bich-ngoc-toi-nhu-con-gai-vua-thuy-te-4263286.html" title="VĐV chèo ván đứng Lý Bích Ngọc: 'Tôi như con gái vua Thủy tề'" data-medium="Item-15" data-thumb="1">Đẹp hiện đại, đam mê thể thao mạo hiểm và là CEO của một nhà đấu giá nghệ thuật, nhưng á quân quốc gia môn chèo ván đứng 2.000m Lý Bích Ngọc chỉ xem bản thân là một cô gái đã phát triển tích cực bản năng phiêu lưu và nổi loạn của mình.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/vdv-cheo-van-dung-ly-bich-ngoc-toi-nhu-con-gai-vua-thuy-te-4263286.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="7" data-objectid="4263286"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263666">
+<h3 class="title-news">
+<a href="https://vnexpress.net/tao-phoi-thai-loai-lai-giua-nguoi-va-khi-4263666.html" title="Tạo phôi thai loài lai giữa người và khỉ" data-medium="Item-16" data-thumb="1">Tạo phôi thai loài lai giữa người và khỉ</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/tao-phoi-thai-loai-lai-giua-nguoi-va-khi-4263666.html" class="thumb thumb-5x3" title="Tạo phôi thai loài lai giữa người và khỉ" data-medium="Item-16" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/CaptureJPG-1618542640-9988-1618542663.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZSl00dXAXdVFbykKKjqi7Q 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/CaptureJPG-1618542640-9988-1618542663.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=sbZTNH_COfgEGIP8ZZsIJQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Tạo phôi thai loài lai giữa người và khỉ" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/CaptureJPG-1618542640-9988-1618542663.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=ZSl00dXAXdVFbykKKjqi7Q">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/tao-phoi-thai-loai-lai-giua-nguoi-va-khi-4263666.html" title="Tạo phôi thai loài lai giữa người và khỉ" data-medium="Item-16" data-thumb="1">Các nhà nghiên cứu đến từ Trung Quốc và Mỹ tiêm tế vào gốc vào phôi thai linh trưởng và nuôi dưỡng phôi thai loài lai trong thời gian dài lên tới 20 ngày.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/tao-phoi-thai-loai-lai-giua-nguoi-va-khi-4263666.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263666"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common " data-id="4263590">
+<h3 class="title-news">
+<a href="https://vnexpress.net/nhung-noi-gia-dat-nen-tang-nong-4263590.html" title="Những nơi giá đất nền tăng 'nóng'" data-medium="Item-17" data-thumb="1">Những nơi giá đất nền tăng 'nóng'</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/nhung-noi-gia-dat-nen-tang-nong-4263590.html" class="thumb thumb-5x3" title="Những nơi giá đất nền tăng 'nóng'" data-medium="Item-17" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-kinhdoanh.vnecdn.net/2021/04/15/155526651448069343102454385618-2922-7732-1618503907.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TZQ2HB4ySLdIM-gBZomIiQ 1x, https://i1-kinhdoanh.vnecdn.net/2021/04/15/155526651448069343102454385618-2922-7732-1618503907.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=aU52eeC3hMn51ax7RCCF0A 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Những nơi giá đất nền tăng 'nóng'" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-kinhdoanh.vnecdn.net/2021/04/15/155526651448069343102454385618-2922-7732-1618503907.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TZQ2HB4ySLdIM-gBZomIiQ">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/nhung-noi-gia-dat-nen-tang-nong-4263590.html" title="Những nơi giá đất nền tăng 'nóng'" data-medium="Item-17" data-thumb="1">Cơ quan quản lý xác nhận vừa qua đất nền tăng "nóng" ở vùng ven Hà Nội, TP HCM, Quảng Ninh, Hải Phòng, Bắc Ninh, Bắc Giang, Hoà Bình, Phú Thọ, Đồng Nai, Bình Dương.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/nhung-noi-gia-dat-nen-tang-nong-4263590.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263590"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common hidden" data-id="4263690">
+<h3 class="title-news">
+<a href="https://vnexpress.net/pvf-tiep-tuc-vo-dich-u19-quoc-gia-4263690.html" title="PVF tiếp tục vô địch U19 Quốc gia" data-medium="Item-18" data-thumb="1">PVF tiếp tục vô địch U19 Quốc gia</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/pvf-tiep-tuc-vo-dich-u19-quoc-gia-4263690.html" class="thumb thumb-5x3" title="PVF tiếp tục vô địch U19 Quốc gia" data-medium="Item-18" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-thethao.vnecdn.net/2021/04/16/DONG2549JPG-1618535114-2140-1618535385.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=k5d9pBJId504kps5OelAHA 1x, https://i1-thethao.vnecdn.net/2021/04/16/DONG2549JPG-1618535114-2140-1618535385.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=akfraVgaE8c5xgSF-B76Sw 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="PVF tiếp tục vô địch U19 Quốc gia" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-thethao.vnecdn.net/2021/04/16/DONG2549JPG-1618535114-2140-1618535385.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=k5d9pBJId504kps5OelAHA">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/pvf-tiep-tuc-vo-dich-u19-quoc-gia-4263690.html" title="PVF tiếp tục vô địch U19 Quốc gia" data-medium="Item-18" data-thumb="1">Thắng Học viện Nutifood 4-1 trong trận chung kết tối 15/4, PVF bảo vệ thành công ngôi vô địch giải U19 Quốc gia 2021.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/pvf-tiep-tuc-vo-dich-u19-quoc-gia-4263690.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263690"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common hidden" data-id="4263785">
+<h3 class="title-news">
+<a href="https://vnexpress.net/kinh-te-trung-quoc-quy-i-tang-truong-ky-luc-4263785.html" title="Kinh tế Trung Quốc quý I tăng trưởng kỷ lục" data-medium="Item-19" data-thumb="1">Kinh tế Trung Quốc quý I tăng trưởng kỷ lục</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/kinh-te-trung-quoc-quy-i-tang-truong-ky-luc-4263785.html" class="thumb thumb-5x3" title="Kinh tế Trung Quốc quý I tăng trưởng kỷ lục" data-medium="Item-19" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-kinhdoanh.vnecdn.net/2021/04/16/TQ-1618542427-4891-1618542461.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=bsXaIHdqOrp9ifXvV9CvVg 1x, https://i1-kinhdoanh.vnecdn.net/2021/04/16/TQ-1618542427-4891-1618542461.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=I_ANfU5BKcLh1VUZrX8ePA 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Kinh tế Trung Quốc quý I tăng trưởng kỷ lục" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-kinhdoanh.vnecdn.net/2021/04/16/TQ-1618542427-4891-1618542461.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=bsXaIHdqOrp9ifXvV9CvVg">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/kinh-te-trung-quoc-quy-i-tang-truong-ky-luc-4263785.html" title="Kinh tế Trung Quốc quý I tăng trưởng kỷ lục" data-medium="Item-19" data-thumb="1">GDP quý I tăng 18,3% nhờ cùng kỳ năm 2020 đúng vào đỉnh dịch Covid-19 nhưng kể cả so với 2019 - khi chưa có dịch, kinh tế Trung Quốc cũng tăng 10,3%.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/kinh-te-trung-quoc-quy-i-tang-truong-ky-luc-4263785.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263785"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common hidden" data-id="4263743">
+<h3 class="title-news">
+<a href="https://vnexpress.net/harry-khong-di-canh-william-trong-dam-tang-ong-noi-4263743.html" title="Harry không đi cạnh William trong đám tang ông nội" data-medium="Item-20" data-thumb="1">Harry không đi cạnh William trong đám tang ông nội</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/harry-khong-di-canh-william-trong-dam-tang-ong-noi-4263743.html" class="thumb thumb-5x3" title="Harry không đi cạnh William trong đám tang ông nội" data-medium="Item-20" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/55631871721538ahoangthanhoangt-4706-4363-1618540862.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TCgCj0GOWdQ-CpUXQKmDgg 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/55631871721538ahoangthanhoangt-4706-4363-1618540862.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=AejsbSgYkBEy9GFMUDTgvQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Harry không đi cạnh William trong đám tang ông nội" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/55631871721538ahoangthanhoangt-4706-4363-1618540862.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=TCgCj0GOWdQ-CpUXQKmDgg">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/harry-khong-di-canh-william-trong-dam-tang-ong-noi-4263743.html" title="Harry không đi cạnh William trong đám tang ông nội" data-medium="Item-20" data-thumb="1"><span class="location-stamp">Anh</span>Người em họ Peter Phillips sẽ đi giữa Hoàng tử William và Harry theo sau linh cữu Hoàng thân Philip trong đám tang ngày 17/4.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/harry-khong-di-canh-william-trong-dam-tang-ong-noi-4263743.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263743"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common hidden" data-id="4263676">
+<h3 class="title-news">
+<a href="https://vnexpress.net/santa-cruz-xe-ban-tai-dau-tien-cua-hyundai-ra-mat-4263676.html" title="Santa Cruz - xe bán tải đầu tiên của Hyundai ra mắt" data-medium="Item-21" data-thumb="1">Santa Cruz - xe bán tải đầu tiên của Hyundai ra mắt</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/santa-cruz-xe-ban-tai-dau-tien-cua-hyundai-ra-mat-4263676.html" class="thumb thumb-5x3" title="Santa Cruz - xe bán tải đầu tiên của Hyundai ra mắt" data-medium="Item-21" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/16/HyundaiSantaCruz1-1618541398-5758-1618541859.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NSN-k6FN4EB1WgYusdwjxA 1x, https://i1-vnexpress.vnecdn.net/2021/04/16/HyundaiSantaCruz1-1618541398-5758-1618541859.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=EMGm3ZW44r9qJhZEIG9LHg 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Santa Cruz - xe bán tải đầu tiên của Hyundai ra mắt" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/16/HyundaiSantaCruz1-1618541398-5758-1618541859.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=NSN-k6FN4EB1WgYusdwjxA">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/santa-cruz-xe-ban-tai-dau-tien-cua-hyundai-ra-mat-4263676.html" title="Santa Cruz - xe bán tải đầu tiên của Hyundai ra mắt" data-medium="Item-21" data-thumb="1"><span class="location-stamp">Mỹ</span>Mẫu pickup đầu tiên của Hyundai chia sẻ nhiều chi tiết kỹ thuật, sản xuất tại cùng nhà máy với Tucson và ngoại hình cũng giống chiếc crossover</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/santa-cruz-xe-ban-tai-dau-tien-cua-hyundai-ra-mat-4263676.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263676"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common hidden" data-id="4263598">
+<h3 class="title-news">
+<a href="https://vnexpress.net/clb-viettel-nha-vua-dang-tro-lai-4263598.html" title="CLB Viettel - nhà vua đang trở lại" data-medium="Item-22" data-thumb="1">CLB Viettel - nhà vua đang trở lại</a>
+</h3>
+<div class="thumb-art">
+<a href="https://vnexpress.net/clb-viettel-nha-vua-dang-tro-lai-4263598.html" class="thumb thumb-5x3" title="CLB Viettel - nhà vua đang trở lại" data-medium="Item-22" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-thethao.vnecdn.net/2021/04/16/viettel-jpeg-1618541490-161854-7460-7970-1618541684.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=cdOA0rGwIR9OGzEOy_qZAg 1x, https://i1-thethao.vnecdn.net/2021/04/16/viettel-jpeg-1618541490-161854-7460-7970-1618541684.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=ZWSG9A5VkF0u6C1culExUQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="CLB Viettel - nhà vua đang trở lại" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-thethao.vnecdn.net/2021/04/16/viettel-jpeg-1618541490-161854-7460-7970-1618541684.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=cdOA0rGwIR9OGzEOy_qZAg">
+</source></picture> </a>
+</div>
+<p class="description">
+<a href="https://vnexpress.net/clb-viettel-nha-vua-dang-tro-lai-4263598.html" title="CLB Viettel - nhà vua đang trở lại" data-medium="Item-22" data-thumb="1">Với bốn trận gần nhất toàn thắng, đương kim vô địch Viettel đang âm thầm trở lại cuộc đua khi leo lên nhì bảng trước vòng 10.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://vnexpress.net/clb-viettel-nha-vua-dang-tro-lai-4263598.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4263598"></span>
+</a>
+</span>
+</p>
+</article>
+<article class="item-news item-news-common hidden" data-id="4262778">
+<h3 class="title-news">
+<a href="https://video.vnexpress.net/tin-tuc/nhip-song/chu-lo-gach-tu-thiet-ke-lau-dai-10-ty-dong-4262778.html" title="Chủ lò gạch tự thiết kế lâu đài 10 tỷ đồng" data-medium="Item-23" data-thumb="1">Chủ lò gạch tự thiết kế lâu đài 10 tỷ đồng</a>
+</h3>
+<div class="thumb-art">
+<a href="https://video.vnexpress.net/tin-tuc/nhip-song/chu-lo-gach-tu-thiet-ke-lau-dai-10-ty-dong-4262778.html" class="thumb thumb-5x3" title="Chủ lò gạch tự thiết kế lâu đài 10 tỷ đồng" data-medium="Item-23" data-thumb="1">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://i1-vnexpress.vnecdn.net/2021/04/14/oke-1618375439-6484-1618375506.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=AhL02szBN-8coOT2Yhklng 1x, https://i1-vnexpress.vnecdn.net/2021/04/14/oke-1618375439-6484-1618375506.jpg?w=220&h=132&q=100&dpr=2&fit=crop&s=iK3MkcRbgVWi77xWE4X-kQ 2x">
+<!--[if IE 9]></video><![endif]-->
+<img itemprop="contentUrl" style="transform: translateX(-50%); left: 50%;" loading="lazy" intrinsicsize="220x132" alt="Chủ lò gạch tự thiết kế lâu đài 10 tỷ đồng" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://i1-vnexpress.vnecdn.net/2021/04/14/oke-1618375439-6484-1618375506.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=AhL02szBN-8coOT2Yhklng">
+</source></picture> <span class="icon_thumb_videophoto"><svg class="ic ic-video"><use xlink:href="#play-1"></use></svg></span> </a>
+</div>
+<p class="description">
+<a href="https://video.vnexpress.net/tin-tuc/nhip-song/chu-lo-gach-tu-thiet-ke-lau-dai-10-ty-dong-4262778.html" title="Chủ lò gạch tự thiết kế lâu đài 10 tỷ đồng" data-medium="Item-23" data-thumb="1"><span class="location-stamp">Hưng Yên</span>Ông Đỗ Trọng Sáu, 56 tuổi chủ lò gạch tại Khoái Châu tự thiết kế và xây dựng căn nhà có hình dáng lâu đài với chí phí khoảng 10 tỷ đồng.</a>
+<span class="meta-news">
+<a class="count_cmt" href="https://video.vnexpress.net/tin-tuc/nhip-song/chu-lo-gach-tu-thiet-ke-lau-dai-10-ty-dong-4262778.html#box_comment_vne" style="white-space: nowrap; display: none;">
+<svg class="ic ic-comment"><use xlink:href="#Comment-Reg"></use></svg>
+<span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="4262778"></span>
+</a>
+</span>
+</p>
+</article>
+</div>
+<div data-cate="top-story" data-arr-cate='["1003750"]'></div>
+<div class="col-right col-medium">
+<div id="_havien1" class="lazier" style="height:100%"></div>
+</div>
+</div>
+</section>
+<section class="section section_topic mt20">
+<div id="_hottopic" class="lazier"></div>
+</section>
+<section class="section mt20">
+<div class="container">
+<div class="banner-ads" style="clear: both;display: flex;justify-content: center;">
+<div id="_billboard_1" class="lazier"></div>
+</div>
+</div>
+</section>
+<section class="section section_container section_video">
+<div id="_videos" class="lazier"></div>
+</section>
+<section class="section section_container">
+<div class="container has_border">
+<div class="inner-row-boxcate flexbox">
+<div id="_havien2_1" class="lazier"></div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container has_border">
+<div class="banner-ads" style="clear: both;display: flex;justify-content: center;">
+<div id="_billboard_2" class="lazier"></div>
+</div>
+</div>
+</section>
+<section class="section section_container">
+<div id="_havien_v2" class="lazier"></div>
+</section>
+<section class="section">
+<div class="container has_border">
+<div class="banner-ads" style="clear: both;display: flex;justify-content: center;">
+<div id="_billboard_3" class="lazier"></div>
+</div>
+</div>
+</section>
+<section class="section section_container">
+<div class="container has_border flexbox">
+<div class="col-left col-770">
+<div id="_podcast" class="lazier"></div>
+<div id="_tamsu_v2" class="lazier"></div>
+<div class="width_common cate-vertical-2col has_border">
+<div class="inner-row-boxcate flexbox">
+<div id="_havien2_2" class="lazier"></div>
+</div>
+</div>
+</div>
+<div class="col-right col-300">
+<div class="item-box-cate">
+<div class="box-category box-shop-sell box-shop-sell-vertical box-wiki-kidlab">
+<div id="_fsell_ewiki" class="lazier"></div>
+</div>
+</div>
+<div class="item-box-cate">
+<div class="box-category box-shop-sell box-shop-sell-vertical box-wiki-kidlab">
+<div id="_box_ebank" class="lazier"></div>
+</div>
+</div>
+<div class="item-box-cate">
+<div class="box-category box-shop-sell box-shop-sell-vertical box-wiki-kidlab">
+<div class="box-category"><div class="banner-ads"><div id='sis_nativeshop'><script>try{googTagCode.display.push('sis_nativeshop');}catch(e){console.log(e);}</script></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section section_container section_photo">
+<div id="_photos" class="lazier"></div>
+</section>
+<section class="section">
+<div class="container has_border">
+<div class="banner-ads" style="clear: both;display: flex;justify-content: center;">
+<div id="_billboard_4" class="lazier"></div>
+</div>
+</div>
+</section>
+<section class="section section_container">
+<div class="container has_border flexbox">
+<div class="col-left col-770">
+<div id="_infographics" class="lazier"></div>
+<div class="box-category box-ebank-qt">
+<div class="width_common inner-box flexbox">
+<div id="_middle_box" class="lazier"></div>
+</div>
+</div>
+<div id="_xemnhieunhat_v2" class="lazier"></div>
+</div>
+<div class="col-right col-300">
+<div class="lazier" id="_box_vote"></div>
+<div id="_box_taitro" class="lazier"></div>
+<div id="_large_3_ov" class="lazier"></div>
+</div>
+</div>
+<div class="container box-news-other-site">
+<div class="inner-box-other-news flexbox">
+<div class="lazier" id="_othersite_news_ns"></div>
+<div class="lazier" id="_othersite_news_ione"></div>
+<div class="lazier" id="_othersite_news_evne"></div>
+</div>
+</div>
+<div class="container wrap-box-business fs_parent_box">
+<div class="width_common inner-box-business">
+<div id="_thongtindoanhnghiep" class="lazier"></div>
+<div class="width_common container fs_box">
+<div>
+<div id="_ads_box_business" class="lazier"></div>
+</div>
+</div>
+</div>
+</div>
+<div id='rich-media-banner-ads'>
+<div id='sis_richmedia'>
+<script>googTagCode.display.push('sis_richmedia');</script>
+</div>
+</div>
+<div id="OverLapHiden" style="width:100%; height:100%; left:0px; top:0px; position:fixed; display:none; background-color:rgb(0, 0, 0); opacity:0.6; z-index:5000001;"></div>
+<div id="_footer_ads" class="lazier"></div>
+</section> <!-- END CONTENT  -->
+<!-- FOOTER -->
+<div id="_footer" class="lazier"></div>
+<footer class="footer container" data-component-runtime="js" data-component-function="initLayout" data-component-input="{}" id="wrapper_footer" data-campaign="Footer"></footer>
+<script type="text/javascript">var scriptFooterArr=["https:\/\/s1.vnecdn.net\/vnexpress\/restruct\/j\/v1566\/v3\/production\/modules\/home.defer.js"];var scriptFooterIS=function(scripts,itv){if(window.lazyReady===true){if(typeof itv!=='undefined'){clearInterval(itv);}for(var f=0;f<scripts.length;f++){addScripts(scripts[f],false);}return true;}else{return false;}}
+window.addEventListener('DOMContentLoaded',function(){if(scriptFooterIS(scriptFooterArr)===false){var checkReady=setInterval(function(){scriptFooterIS(scriptFooterArr,checkReady);},100);setTimeout(function(){clearInterval(checkReady);},5000);}});</script>
+<a href="javascript:;" id="to_top" title="Lên đầu trang"><svg class="ic ic-arrow-up"><use xlink:href="#Arrow-Up-1"></use></svg></a>
+<script>!function(a){"use strict";var b=function(b,c,d){function j(a){if(e.body)return a();setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(a){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);</script>
+<div id="tt_end_page" style="display: none;"></div></body>
+</html>
